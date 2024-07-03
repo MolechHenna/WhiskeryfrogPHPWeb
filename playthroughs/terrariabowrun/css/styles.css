@@ -1,0 +1,631 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Trebuchet MS", sans-serif;
+  background: #fbf7ef url(../../../images/faintBackground.webp) repeat 0 0;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  padding-top: 0;
+  box-sizing: border-box;
+  animation: slide 60s linear infinite alternate;
+  background-color: rgba(5, 5, 5, 0.8) !important;
+  color: #e6e6e6 !important;
+}
+
+.floatingRight{
+  float: right;
+}
+@keyframes slide {
+    0% {
+      background-position: 0 0;
+    }
+    100% {
+      background-position: -512px -512px;
+    }
+  }
+
+.clickable{
+  cursor: pointer;
+}
+
+.rarityGray{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  color: gray;
+    text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+}
+.rarityWhite{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  color: white;
+    text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+}
+.rarityBlue{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  color: rgb(63, 75, 205);
+    text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+}
+.rarityGreen{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  color: rgb(90, 242, 151);
+    text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+}
+.rarityOrange{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  color: rgb(228, 161, 45);
+    text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+}
+.rarityLightRed{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  color: rgb(225, 97, 97);
+    text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+}
+.rarityPink{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  color: rgb(225, 117, 215);
+    text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+}
+.rarityLightPurple{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  color: rgb(174, 87, 228);
+    text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+}
+.rarityLightPurple{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  color: rgb(30, 225, 0);
+    text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+}
+.rarityYellow{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  color: rgb(223, 243, 2);
+    text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+}
+.rarityCyan{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  color: #0293d1;
+    text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+}
+.rarityRed{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  color: red;
+    text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+}
+.rarityPurple{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  color: rgb(117, 0, 143);
+    text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+}
+.rarityAmber{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  color: rgb(219, 178, 13);
+    text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+}
+.rarityExpert{
+  font-family: "Patrick Hand", cursive;
+  font-style: thin;
+  font-size: 20px;
+  background: linear-gradient(to right,
+                    violet,
+                    indigo,
+                    blue,
+                    green,
+                    yellow,
+                    orange,
+                    red);
+    background-clip: text;
+    color: transparent;
+}
+
+/* Start - NAVIGATION BAR*/
+
+.topPanel {
+    background-color: #017201;
+    overflow: hidden;
+    font-weight: bold;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0; /* Specify the offset from the top of the viewport */
+    z-index: 998;
+  }
+  
+  .theTop {
+    margin: 0px 50px 10px 50px;
+    padding: 0;
+    gap: 0%;
+    padding: 0;
+    background-color: rgba(255, 255, 255, 0);
+    box-shadow: 2px 6px 2px #00000000;
+    position: sticky;
+    top: 48px; /* Specify the offset from the top of the viewport */
+    z-index: 999;
+  }
+  
+  .topPanel .rightSide {
+    float: right;
+  }
+  
+  .topPanel a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-weight:bold;
+  }
+  
+  .topPanel a:hover {
+    background-color: #035603;
+    color: rgb(196, 196, 196);
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .rightSide i,
+  .rightSide .smallscreen,
+  a i,
+  a .smallscreen {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  @media (max-width: 1000px) {
+    .rightSide .smallscreen,
+    a i,
+    a .smallscreen {
+      display: none;
+    }
+  
+    .smallscreen {
+      display: none;
+    }
+  }
+
+  .openbtn{
+    max-width: fit-content;
+    font-weight:bold;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0;
+  }
+
+  .topPanel {
+    margin: 0;
+    padding: 0;
+}
+  /* NAVIGATION BAR */
+
+  /* SIDEBAR */
+  .sidebar {
+    height: 100%;
+    width: 0;
+    margin-top: 45px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #035603;
+    overflow: hidden;
+    padding-top: 60px;
+  }
+  
+  .sidebar a {
+    padding: 8px 8px 8px 8px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #f1f1f1;
+    display: block;
+    text-align: left;
+    overflow: hidden;
+  }
+
+  .sidebaritems a:hover {
+    background-color: #017201;
+    color: white;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 10px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+
+  .closebtn a:hover {
+    background-color: #035603;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidebar {padding-top: 15px;}
+    .sidebar a {font-size: 18px;}
+  }
+    /* SIDEBAR */
+
+    /*CONTAINERS*/    
+    .bannerimage{
+      display:flex;
+      flex-direction:row;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .logobanner{
+      max-width: 100%;
+      height: auto;
+    }
+
+    .bigtext {
+      display: block !important;
+      font-size: 3vw;
+      font-weight: 800;
+      margin-bottom: 5px;
+      text-align: center;
+      letter-spacing: 0.5px;
+    }
+    
+    #main .containerMainplus {
+      padding: 30px;
+      margin: 10px 300px 20px 300px;
+      background-color: #71706dd5;
+      border-radius: 20px;
+      box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.46);
+      -webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.46);
+      -moz-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.46);
+      border: solid 2px white;
+      display: flex;
+    }
+
+    .containerMain{
+      background-color: rgba(5, 5, 5, 0.8) !important;
+      color: #e6e6e6 !important;
+      padding: 20px;
+      margin: 2vw;
+      border-radius: 2vw;
+      transition: background-color 0.4s ease, color 0.4s ease;
+      box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.46);
+      -webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.46);
+      -moz-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.46);
+    }
+
+    .bowDetails{
+      font-size: 1vw;
+      text-align: left;
+    }
+
+    .hrbreaker{
+      margin: 2vw;
+      background-color: white;
+      height: 7px;
+      border-radius: 5vw;
+    }
+
+    .rules-content {
+      overflow: hidden;
+      transition: height 0.3s ease;
+  }
+    
+    @media (max-width: 1500px) {
+      #main .containerMainplus {
+        margin: 10px 10px 10px 10px;
+      }
+    }
+
+    @media (max-width: 1000px) {
+      #main .containerMainplus {
+        margin: 10px 10px 10px 10px;
+      }
+      .bowDetails{
+        font-size: 15px;
+      }
+    }
+    
+    @media (max-width: 500px) {
+      #main .containerMainplus {
+        margin: 0px;
+        border: solid 0px white;
+        border-radius: 0px;
+        box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.46);
+        -webkit-box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.46);
+        -moz-box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.46);
+        padding: 30px 0px 10px 0;
+      }
+
+      body {
+        background: #fbf7ef url(#) repeat 0 0;
+      }
+
+      .containerMain{
+        background-color: rgba(5, 5, 5, 0.8) !important;
+        color: #e6e6e6 !important;
+        padding: 18px;
+        margin: 0vw !important;
+        border-radius: 10px;
+        transition: background-color 0.4s ease, color 0.4s ease;
+        box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.46);
+        -webkit-box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.46);
+        -moz-box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.46);
+        text-align: justify;
+        font-size: 15px;
+      }
+
+      .bannerimage{
+        margin: 30px 40px 10px 40px;
+      }
+
+      .bigtext {
+        font-size: 20px;
+      }
+
+      .hrbreaker{
+        margin: 20px 15px;
+        background-color: white;
+        height: 5px;
+        border-radius: 5vw;
+      }
+    }
+    
+
+/*FOOTER  */
+/* ko-fi icon */
+.fa-ko-fi::before {
+  content: "\f0f4";
+  display: inline-block;
+  font-size: 1.1em;
+  line-height: 0.45em;
+  margin: -0.45em 0 0 -0.2em;
+  overflow-y: hidden;
+  padding-top: 0.45em;
+}
+.fa-ko-fi::after {
+  color: #a07e38;
+  content: "\f004";
+  font-size: 50%;
+  font-weight: 900;
+  margin: 0.5em 0 0 -2em;
+  position: absolute;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #6b521f;
+  overflow: hidden;
+  font-weight: bold;
+  z-index: 998;
+  align-items: center;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer .leftside,
+.footer .rightSideF {
+  display: flex;
+  align-items: center; 
+}
+
+.footer .leftside {
+  justify-content: start;
+  margin-left: 15px;
+}
+
+.footer .rightSideF {
+  justify-content: end;
+}
+
+.footer a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px 15px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  font-size: 30px;
+}
+
+.footer a:hover {
+  background-color: #42300d;
+  color: white;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.bows {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+  grid-column-gap: 15px;
+  grid-row-gap: 15px;
+  justify-content: center;
+  } 
+
+  .bow1{
+    background-color: rgb(77, 76, 76);
+    border-radius: 5px;
+    padding: 10px;
+    -webkit-box-shadow: -1px 0px 7px 0px rgba(0,0,0,0.56);
+-moz-box-shadow: -1px 0px 7px 0px rgba(0,0,0,0.56);
+box-shadow: -1px 0px 7px 0px rgba(0,0,0,0.56);
+  }
+
+@media(max-width: 1000px) {
+  .footer .leftside {
+    justify-content: start;
+    margin-left: 0px;
+  }
+
+  .bows  {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    text-align: center;
+    } 
+}
+@media(max-width: 700px) {
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #6b521f;
+    overflow: hidden;
+    font-weight: bold;
+    z-index: 998;
+    padding-bottom: 40px;
+    align-items: center;
+  }
+  .bows  {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    text-align: center;
+    } 
+
+    .bow1{
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      grid-column-gap: 1px;
+      grid-row-gap: 1px;
+      justify-content: center;
+    }
+}
+
+ul{
+  text-align: justify !important;
+}
+  
+
+
+  

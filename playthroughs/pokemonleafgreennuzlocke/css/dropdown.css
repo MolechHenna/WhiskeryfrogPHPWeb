@@ -1,0 +1,631 @@
+.dropbtn {
+    background-color: #0d8402;
+    color: white;
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+    width: 100%; /* Change min-width to 100% */
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.theTop {
+    margin: 0px;
+    padding: 0;
+    gap: 0%;
+    background-color: rgba(255, 255, 255, 0);
+    box-shadow: 2px 6px 2px #00000000;
+}
+
+.showbtn{
+    background-color: rgb(68, 67, 67);
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px  rgb(27, 27, 27);
+    padding: 10px 15px;
+    font-size: 20px;
+    margin: 0 5px;
+    margin-bottom: 10px;
+}
+
+.showbtn img{
+    width: 40px;
+    height: auto;
+    cursor: pointer;
+
+}
+
+.showbtn:active {
+    box-shadow: none;
+    transform: translateY(5px);
+  }
+  
+  .difficultflex-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    flex-direction: row;
+  }
+
+  .difficultflex-container .rightside{
+    justify-content: start !important;
+    text-align: left !important;    
+  }
+
+  .difficultycontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .difficultycontainer > div {
+    padding: 10px;
+    border: white solid 2px;
+    box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.46);
+  -webkit-box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.46);
+  -moz-box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.46);
+  }
+
+  .first{
+    border-radius: 5px 0 0 5px;
+  }
+  .last{
+    border-radius: 0 5px 5px 0;
+  }
+
+  .xeasy{
+    background-color: #1d4877;
+  }
+  .easy{
+    background-color: #1b8a5a;
+  }
+  .normal{
+    background-color: #fbb021;
+  }
+  .hard{
+    background-color: #f68838;
+  }
+  .challenging{
+    background-color: #ee3e32;
+  }
+
+  .nofill{
+    background-color: #313533;
+  }
+
+  .slightspace{
+    margin-right: 10px;
+  }
+
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #075700;
+}
+
+#myInput {
+    box-sizing: border-box;
+    background-position: 14px 12px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 14px 20px 12px 45px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    min-width: 100%;
+}
+
+#myInput:focus {outline: 3px solid #ddd;}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    min-width: 100%;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f6f6f6;
+    max-height: 500px;
+    min-width: 230px;
+    border: 1px solid #ddd;
+    z-index: 1;
+    min-width: 100%;
+    text-align: left;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    min-width: 100%;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
+
+@media screen and (max-width: 1000px) {
+    .dropdown-content {
+        max-width: 30%;
+        font-size: 15px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+
+.anchorgroup {
+    margin-top: 20px;
+}
+
+.bigtext {
+    text-align: center;
+}
+
+.slightlysmall {
+    font-size: 30px;
+    padding-top: 15px;
+}
+
+.small {
+    font-size: 15px;
+    padding-top: 5px;
+}
+
+@media screen and (max-width: 1000px) {
+    .topPanel1 {
+        padding-top: 8px;
+    }
+
+    .slightlysmall {
+        font-size: 18px;
+        padding-top: 7px;
+    }
+}
+
+.topPanel {
+    background-color: #0d8402 !important;
+}
+
+.topPanel a:hover {
+    background-color: #075700 !important;
+}
+
+.containerMain {
+    margin: 10px 10px 10px 10px;
+    box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.46);
+  -webkit-box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.46);
+  -moz-box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.46);
+}
+
+@media screen and (max-width: 500px) {
+    
+    .showbtn{
+        background-color: rgb(68, 67, 67);
+        text-align: center;
+        cursor: pointer;
+        outline: none;
+        color: #fff;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 5px  rgb(27, 27, 27);
+        padding: 10px 15px;
+        font-size: 20px;
+        margin: 0 5px;
+        margin-bottom: 0px;
+    }
+
+    .showbtn img{
+        width: 25px;
+        height: auto;
+        cursor: pointer;
+    }
+    
+    
+}
+
+.clickable {
+    cursor: pointer;
+    /*animation: shadow-bob 1s infinite alternate;*/
+    /* Apply the animation */
+}
+
+
+@keyframes shadow-bob {
+    0% {
+        color: #5ca904;
+        /* Start with shadow */
+    }
+
+    100% {
+        color: #346002;
+        /* End with a more pronounced shadow */
+    }
+}
+
+.rules-content {
+    overflow: hidden;
+    transition: height 0.3s ease;
+}
+
+.textjustify {
+    text-align: justify;
+    justify-content: center;
+}
+
+.bannerimage {
+    border-radius: 20px;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    margin-bottom: 15px;
+}
+
+.division3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    font-size: 12px;
+}
+
+.division4 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    margin: 1px;
+    font-size: 12px;
+}
+
+
+
+@media screen and (max-width: 1200px) {
+    .bannerimage {
+        border-radius: 15px;
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .division4 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+    }
+
+    .div4font {
+        font-size: 12px;
+    }
+
+    .showbtn{
+        font-size: 10px;
+    }
+    .bannerNewSize{
+        max-width: 300px;
+    }
+
+    .dropdown-content {
+        max-height: 300px;
+    }
+}
+
+.route1 {
+    position: relative;
+}
+
+
+
+.party {
+    position: relative;
+}
+
+.party::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("../sprites/party.png");
+    filter: brightness(0.5);
+
+    /* Adjust the brightness value as needed */
+    border-radius: inherit;
+    /* Match the border radius of the parent */
+
+}
+
+/* Ensure other properties for .route1 div are still applied */
+.party>* {
+    position: relative;
+    /* Ensure children remain in the flow */
+}
+
+.death {
+    position: relative;
+}
+
+.death::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("../sprites/deaths.png");
+    filter: brightness(0.5);
+
+    /* Adjust the brightness value as needed */
+    border-radius: inherit;
+    /* Match the border radius of the parent */
+
+}
+
+/* Ensure other properties for .route1 div are still applied */
+.death>* {
+    position: relative;
+    /* Ensure children remain in the flow */
+}
+
+
+.twobyone {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+
+}
+
+
+.smallpadding {
+    padding: 1px;
+    width: 70%;
+    margin: auto;
+}
+
+.col {
+    padding: 10px;
+}
+
+.dead {
+    filter: grayscale(100%);
+}
+
+.titlealign {
+    padding-top: 0;
+}
+
+.succenc {
+    text-shadow: -1px 1px 5px rgba(0, 0, 0, 0.93);
+    color: white;
+    font-weight: bold;
+    background-color: rgb(2, 84, 2);
+}
+
+.giftpokemon {
+    color: white;
+    background-color: rgb(113, 113, 113);
+    text-align: center;
+    width: 100%;
+    margin-bottom: 3px;
+}
+
+.grasspokemon {
+    color: white;
+    background-color: rgb(12, 115, 0);
+    text-align: center;
+    width: 100%;
+    margin-bottom: 3px;
+}
+
+.surfpokemon {
+    color: white;
+    background-color: rgb(0, 102, 174);
+    text-align: center;
+    width: 100%;
+    margin-bottom: 3px;
+}
+
+.fishpokemon {
+    color: white;
+    background-color: rgb(3, 37, 114);
+    text-align: center;
+    width: 100%;
+    margin-bottom: 3px;
+}
+
+.cavepokemon {
+    color: white;
+    background-color: rgb(68, 45, 45);
+    text-align: center;
+    width: 100%;
+    margin-bottom: 3px;
+}
+
+.caughtpokemon {
+    color: white;
+    background-color: rgb(109, 119, 2);
+    text-align: center;
+    width: 100%;
+    margin-bottom: 3px;
+}
+
+.legendarypokemon {
+    color: white;
+    background-color: rgb(225, 255, 1);
+    text-align: center;
+    width: 100%;
+    margin-bottom: 3px;
+}
+
+.altTrainerRow {
+    color: white;
+    background-color: rgb(34, 34, 34);
+    text-align: center;
+    width: 100%;
+}
+
+.failenc {
+    text-shadow: -1px 1px 5px rgba(0, 0, 0, 0.93);
+    background-color: rgb(229, 57, 57);
+    font-weight: bold;
+    color: white;
+}
+
+.nopad {
+    padding: 0;
+    margin: 0;
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+table.customTable {
+    width: 100%;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: #ffffff;
+    border-style: solid;
+    color: #000000;
+    border-radius: 10px;
+    border-collapse: separate;
+    color: white;
+    background-color: #0000008b;
+    table-layout: fixed;
+    font-size: 12px;
+}
+
+
+
+@media screen and (max-width: 1200px) {
+    table.customTable {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    table.customTable {
+        font-size: 10px;
+        table-layout: auto;
+    }
+
+    table.trainerTable{
+        table-layout: fixed !important;
+    }
+}
+
+table.customTable td,
+table.customTable th {
+    border-width: 0;
+    border-color: #f8f8f800;
+    border-style: solid;
+    padding: 1px;
+}
+
+table.customTable th {
+    background-color: white;
+    color: black;
+}
+
+
+table tr:last-child td:last-child {
+    border-bottom-right-radius: 1px;
+}
+
+table tr:last-child td:first-child {
+    border-bottom-left-radius: 1px;
+}
+
+table tr:first-child th:first-child,
+table tr:first-child td:first-child {
+    border-top-left-radius: 1px
+}
+
+table tr:first-child th:last-child,
+table tr:first-child td:last-child {
+    border-top-right-radius: 1px
+}
+
+table tr th:first-child,
+table tr td:first-child {
+    border-left: 2px solid #ffffff00;
+}
+
+table tr:first-child th,
+table tr:first-child td {
+    border-top: 2px solid #ffffff00;
+}
+
+table.trainerTable {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 10px;
+    border-collapse: separate;
+    color: white;
+    background-color: #1e1e1e;
+    table-layout: fixed;
+    font-size: 12px;
+  border: 2px solid white;
+}
+
+.alive {
+    animation: upAndDown 1s infinite alternate;
+    /* Apply the animation */
+}
+
+@keyframes upAndDown {
+    0% {
+        top: 0;
+        /* Starting position */
+    }
+
+    100% {
+        top: 10px;
+        /* Ending position */
+    }
+}
+
+.importantname {
+    color: rgb(245, 245, 18);
+}
+
+.glowinganim{
+  -webkit-animation: glowing 1s ease-in-out infinite alternate;
+  -moz-animation: glowing 1s ease-in-out infinite alternate;
+  animation: glowing 1s ease-in-out infinite alternate;
+}
+
+@keyframes glowing {
+    from {
+        box-shadow: -1px -1px 42px 8px rgb(220, 213, 3);
+    }
+    to {
+        box-shadow: -1px -1px 42px 8px rgba(209, 229, 31, 0.52);
+    }
+  }
+
+  .tabledifficult{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
