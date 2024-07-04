@@ -18,6 +18,12 @@ body {
   color: #e6e6e6 !important;
 }
 
+.pixelate-filter{
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
 .floatingRight{
   float: right;
 }
@@ -146,7 +152,7 @@ body {
            -2px 0px 0px black, 
            0px -2px 0px black;
 }
-.rarityLightPurple{
+.rarityLime{
   font-family: "Patrick Hand", cursive;
   font-style: thin;
   font-size: 20px;
@@ -256,6 +262,32 @@ body {
     position: sticky;
     top: 0; /* Specify the offset from the top of the viewport */
     z-index: 998;
+  }
+
+  .prehardmodeBanner{
+    color: white;
+    background-color: rgb(113, 113, 113);
+    text-align: center;
+    width: 100%;
+    margin-bottom: 15px;
+    margin-top: 3px;
+  }
+  .hardmodeBanner{
+    color: white;
+    background-color: rgb(118, 12, 12);
+    text-align: center;
+    width: 100%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+  }
+
+  .monstersmallSize{
+    height: 32px;
+    width: auto;
+  }
+  .monsterBossSize{
+    height: 64px;
+    width: auto;
   }
   
   .theTop {
@@ -394,8 +426,17 @@ body {
       text-align: center;
       letter-spacing: 0.5px;
     }
+    .mediumtext {
+      display: block !important;
+      font-size: 2vw;
+      font-weight: 800;
+      margin-bottom: 5px;
+      text-align: center;
+      letter-spacing: 0.5px;
+    }
     
     #main .containerMainplus {
+      display: block;
       padding: 30px;
       margin: 10px 300px 20px 300px;
       background-color: #71706dd5;
@@ -404,7 +445,6 @@ body {
       -webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.46);
       -moz-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.46);
       border: solid 2px white;
-      display: flex;
     }
 
     .containerMain{
@@ -443,7 +483,7 @@ body {
     }
 
     @media (max-width: 1000px) {
-      #main .containerMainplus {
+      #main.containerMainplus {
         margin: 10px 10px 10px 10px;
       }
       .bowDetails{
@@ -493,6 +533,10 @@ body {
         background-color: white;
         height: 5px;
         border-radius: 5vw;
+      }
+
+      .mediumtext {
+        font-size: 18px;
       }
     }
     
@@ -562,8 +606,7 @@ body {
 
 .bows {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-
+  grid-template-columns: repeat(4, 1fr);
   grid-column-gap: 15px;
   grid-row-gap: 15px;
   justify-content: center;
@@ -576,6 +619,10 @@ body {
     -webkit-box-shadow: -1px 0px 7px 0px rgba(0,0,0,0.56);
 -moz-box-shadow: -1px 0px 7px 0px rgba(0,0,0,0.56);
 box-shadow: -1px 0px 7px 0px rgba(0,0,0,0.56);
+transition: transform 0.3s ease;
+  }
+  .bow1:hover{
+    transform: translateY(-10px);
   }
 
 @media(max-width: 1000px) {
