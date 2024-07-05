@@ -2691,7 +2691,7 @@ include 'phpfolder/trainerlf.php';
                     </div>
                 </div>
                 <div id="Review" class="tabcontent" style="display: none;">
-                    <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke Review</span>
+                    <span class="bigtext slightlysmall" style="color: white;">Pokémon LeafGreen Nuzlocke Review</span>
                     <hr class="linebreaker">
                     <p class="" style="color: white;">This part of the website will just show you my overall thoughs
                         with regards to the game itself.

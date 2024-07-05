@@ -87,9 +87,9 @@ include '../php/version.php';
                             (GBA)</span>
                     </div>
                 </a>
-                <a href="terrariabowrun/terrariabowrun.php" class="anchorgroup col">
+                <a href="terrariabowrun/terrariabowrun" class="anchorgroup col">
                     <div class=" col row containerMain">
-                        <img src="../images/terrariabanner.webp" class="bannerimage dead" alt="" width="300" height="150">
+                        <img src="../images/terrariabanner.webp" class="bannerimage" alt="" width="300" height="150">
                         <span class="bigtext" style="display: block !important;">Terraria Bow Run - Expert Mode
                             (PC)</span>
                     </div>

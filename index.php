@@ -38,7 +38,7 @@ include 'php/version.php';
                         <div class="limiter">
                             <div class="wrapper">
                                 <img src="images/leafgreenbanner.webp" class="item item1" alt="LeafGreen Banner" loading="lazy">
-                                <img src="images/terrariabanner.webp" class="item item2 dead" alt="Terraria Banner" loading="lazy">
+                                <img src="images/terrariabanner.webp" class="item item2" alt="Terraria Banner" loading="lazy">
                                 <img src="images/pokemoncrystal.webp" class="item item3 dead" alt="Pokemon Crystal Banner" loading="lazy">
                                 <img src="images/coffeetalk.webp" class="item item4 dead" alt="Coffee TalkLeafGreen Banner" loading="lazy">
                                 <img src="images/dinosaurking.webp" class="item item5 dead" alt="Dinosaur King LeafGreen Banner" loading="lazy">
