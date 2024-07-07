@@ -634,6 +634,16 @@ body {
   justify-content: end;
 }
 
+main{
+  min-height: 100vh; /* make sure the content area takes up at least the full height of the viewport */
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+}
+
 .footer a {
   float: left;
   display: block;
@@ -719,6 +729,75 @@ transition: transform 0.3s ease;
 ul{
   text-align: justify !important;
 }
+
+.episode-button{
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.nextprev-button{
+  color: white;
+  text-decoration: none;
+  width: 100%;
+  padding: 15px;
+  background-color: rgba(0, 0, 0, 0.754);
+}
+
+.nextprev-button:nth-child(1){
+  border-radius: 20px 0 0 20px;
+}
+
+.nextprev-button:nth-child(2){
+  border-radius: 0 20px 20px 0;
+}
+
+.highlight-container{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin: 10px 0;
+  text-align: justify !important;
+  margin: 2vw;
+  flex-basis: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.highlight-container > *{
+  flex: 1;
+}
+
+.highlight-container .logobanner{
+  border-radius: 15px;
+}
+
+
+
+@media (max-width: 700px){
+  .highlight-container{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin: 0 0 15px 0;
+  }
+
+  .reverse{
+    flex-direction: column-reverse;
+  }
+
+  .highlight-container p{
+    margin: 0vw 3vw 4vw 3vw;
+  }
+
+  .highlight-container .logobanner{
+    border-radius: 0px;
+  }
+}
+
+
   
 
 

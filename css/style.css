@@ -590,12 +590,6 @@ a .smallscreen1 {
   border-radius: 15px;
 }
 
-/*
-.dank{
-  background-color: rgba(79, 79, 79, 0.684);
-}
-*/
-
 .bannerNewSize{
   max-width: 500px;
   height: 100%;
@@ -910,31 +904,6 @@ tr.tableteir{
   -moz-box-shadow: 5px 10px 0px 0px rgba(0, 0, 0, 0.46);
 }
 
-.row,
-.row a {
-  display: flex;
-  flex-wrap: wrap; /* Allow the items to wrap onto multiple lines */
-  margin-top: 10px;
-}
-
-.col,
-.col a {
-  flex: 1;
-  margin: 0 5px;
-  box-sizing: border-box; /* Include padding and border in the element's total width and height */
-}
-
-@media (max-width: 1000px) {
-  .col {
-    flex: 100%; /* Set to full width when screen size is 768px or less */
-  }
-
-  .row {
-    display: block;
-    margin-top: 5px;
-  }
-}
-
 .linebreaker {
   height: 5px;
   background-color: white;
@@ -961,4 +930,59 @@ tr.tableteir{
 }
 .lazy-load.loaded {
   opacity: 1; /* Show the image when loaded */
+}
+
+main{
+  min-height: 100vh; /* make sure the content area takes up at least the full height of the viewport */
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+}
+
+.playthrough-wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.playthrough-wrapper.search-mode {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.playthrough-wrapper.search-mode > div {
+  margin: 10px; /* add some margin between items */
+}
+
+.playthrough-wrapper.search-mode > div>a {
+  display: flex;
+  justify-content: center;
+}
+
+.containerMain {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bigtext {
+  text-align: center;
+}
+
+@media(max-width: 500px) {
+  .playthrough-wrapper{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+a .containerMain {
+  transition: transform 0.3s ease; /* Adjust the duration and easing function as needed */
+}
+
+a .containerMain:hover {
+  transform: translateY(-10px);
 }

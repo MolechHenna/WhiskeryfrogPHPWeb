@@ -404,6 +404,30 @@
     margin: auto;
 }
 
+.episode-button{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  .nextprev-button{
+    color: white;
+    text-decoration: none;
+    width: 100%;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.754);
+  }
+  
+  .nextprev-button:nth-child(1){
+    border-radius: 20px 0 0 20px;
+  }
+  
+  .nextprev-button:nth-child(2){
+    border-radius: 0 20px 20px 0;
+  }
+
 .col {
     padding: 10px;
 }

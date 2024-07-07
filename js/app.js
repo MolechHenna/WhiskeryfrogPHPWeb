@@ -191,22 +191,23 @@ noupdate.style.display = anyVisible ? 'none' : 'block';
 
     // Check if searchInput, containers, and noGameMessage exist before adding event listener
     if (searchInput && containers && noGameMessage) {
-        searchInput.addEventListener("input", function() {
-            const searchTerm = searchInput.value.trim().toLowerCase();
-            let found = false; // Flag to track if any game matches the search term
-
-            containers.forEach(function(container) {
-                const text = container.querySelector(".bigtext").textContent.toLowerCase();
-                if (text.includes(searchTerm)) {
-                    container.parentNode.style.display = "flex"; // Display the parent element of containerMain
-                    found = true; // Set flag to true if any game matches the search term
-                } else {
-                    container.parentNode.style.display = "none"; // Hide the parent element of containerMain
-                }
-            });
-
-            // If no game matches the search term, display the "No Playthrough Available" message
-            noGameMessage.style.display = found ? "none" : "block";
-        });
-    }
+      searchInput.addEventListener("input", function() {
+          const searchTerm = searchInput.value.trim().toLowerCase();
+          let found = false; // Flag to track if any game matches the search term
+  
+          containers.forEach(function(container) {
+              const text = container.querySelector(".bigtext").textContent.toLowerCase();
+              if (text.includes(searchTerm)) {
+                  container.parentNode.style.display = "flex"; // Display the parent element of containerMain
+                  container.parentNode.style.justifyContent = "center"; // Display the parent element of containerMain
+                  found = true; // Set flag to true if any game matches the search term
+              } else {
+                  container.parentNode.style.display = "none"; // Hide the parent element of containerMain
+              }
+          });
+  
+          // If no game matches the search term, display the "No Playthrough Available" message
+          noGameMessage.style.display = found ? "none" : "block";
+      });
+  }
 });

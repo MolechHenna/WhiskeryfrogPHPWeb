@@ -498,6 +498,10 @@ include 'phpfolder/trainerlf.php';
                         will most likely be cancelled halfway through"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="z7nrU5ErHpk"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Introduction" class="tab-link nextprev-button" data-tab="Introduction"><- Introduction</a>
+                                <a href="#Episode2" class="tab-link nextprev-button" data-tab="Episode 2">Episode 1 -></a>
+                    </div>
                     <p class="" style="color: white;">This is the first episode of the playthrough. The
                         things that I did in this episode is that
                         I picked my starter and battled my rival as soon as he chose his. I had to pick up a package
@@ -609,6 +613,10 @@ include 'phpfolder/trainerlf.php';
                         Very Looooooooong forest"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="99NT8e4OhVY"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode1" class="tab-link nextprev-button" data-tab="Episode 1"><- Episode 1</a>
+                                <a href="#Episode3" class="tab-link nextprev-button" data-tab="Episode 3">Episode 3 -></a>
+                    </div>
                     <p class="" style="color: white;">The second episode starts with me with training up all
                         of my Pokemon to level 10 in order to keep up with my starter's level. After training, I
                         immediately challenged my Rival for the 2nd time which went well because of my training. After
@@ -662,6 +670,10 @@ include 'phpfolder/trainerlf.php';
                         Good thing I started with Squirtle"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="aY8DG28Y7MM"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode2" class="tab-link nextprev-button" data-tab="Episode 2"><- Episode 2</a>
+                                <a href="#Episode4" class="tab-link nextprev-button" data-tab="Episode 4">Episode 4 -></a>
+                    </div>
                     <p class="" style="color: white;">This episode I challenged the Pewter City gym and right
                         after that I headed to route 3 and challenged a bunch of trainers to go to the next main area
                         which is Mt.Moon.</p>
@@ -724,6 +736,10 @@ include 'phpfolder/trainerlf.php';
                         I Sped Up Most Pokémon Battles in this Episode"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="04JGG7xF-fs"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode3" class="tab-link nextprev-button" data-tab="Episode 3"><- Episode 3</a>
+                                <a href="#Episode5" class="tab-link nextprev-button" data-tab="Episode 5">Episode 5 -></a>
+                    </div>
                     <p class="" style="color: white;">This episode is pretty much spent going through Mt.Moon
                         which was very long and tidious but I managed to get through it as well as reaching Cerulean
                         city.</p>
@@ -813,6 +829,10 @@ include 'phpfolder/trainerlf.php';
                         Look Closely at the Thumbnail"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="fnuHq8D2c1Y"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode4" class="tab-link nextprev-button" data-tab="Episode 4"><- Episode 4</a>
+                                <a href="#Episode6" class="tab-link nextprev-button" data-tab="Episode 6">Episode 6 -></a>
+                    </div>
                     <p class="" style="color: white;">The episode was first spend fighting my rival again and
                         then fought through the nugget bridge which has a surprise at the end. After that I also went to
                         Bill's house in order to get an S.S Anne ticket which will be used later on. The encounters that
@@ -897,6 +917,10 @@ include 'phpfolder/trainerlf.php';
                         Not Too Thankful that my Starter is Squirtle"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="VJvnkvnBDIs"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode5" class="tab-link nextprev-button" data-tab="Episode 5"><- Episode 5</a>
+                                <a href="#Episode7" class="tab-link nextprev-button" data-tab="Episode 7">Episode 7 -></a>
+                    </div>
                     <p class="" style="color: white;">This episode is somewhat isolated considering that I
                         just trained in the beginning and fought the Cerulean gym and immediately
                         ended the episode right afer that.</p>
@@ -941,6 +965,10 @@ include 'phpfolder/trainerlf.php';
                         Vermillion dollars"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="39azBpM_r14"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode6" class="tab-link nextprev-button" data-tab="Episode 6"><- Episode 6</a>
+                                <a href="#Episode8" class="tab-link nextprev-button" data-tab="Episode 8">Episode 8 -></a>
+                    </div>
                     <p class="" style="color: white;">Just like what the title suggests, the episode was
                         spent going Vermillion city which I had to through route 5 and route 6. Alongside that, I also
                         fought through trainers just to get to Vermillion city. I also did not settled in it since I
@@ -1055,6 +1083,10 @@ include 'phpfolder/trainerlf.php';
                         That Time I "GAME ENDED" my Rival's Raticate"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="6TtZLgiaI0w"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode7" class="tab-link nextprev-button" data-tab="Episode 7"><- Episode 7</a>
+                                <a href="#Episode9" class="tab-link nextprev-button" data-tab="Episode 9">Episode 9 -></a>
+                    </div>
                     <p class="" style="color: white;">In this episode went to the S.S Anne and fought some
                         trainers as well as my rival who I assume that his Raticate was killed by me during our fight
                         (or not) and got the HM for cut from the captain in order to fight the gym leader of Vermillion
@@ -1101,6 +1133,10 @@ include 'phpfolder/trainerlf.php';
                         Normal Rat V.S. Electric Rat"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="_qhjVqA1kco"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode8" class="tab-link nextprev-button" data-tab="Episode 8"><- Episode 8</a>
+                                <a href="#Episode10" class="tab-link nextprev-button" data-tab="Episode 10">Episode 10 -></a>
+                    </div>
                     <p class="" style="color: white;">I fought through the entirety of Vermillion city gym,
                         that's pretty much it.
                     </p>
@@ -1149,6 +1185,10 @@ include 'phpfolder/trainerlf.php';
                         Trainer Beatdown"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="klH7wJdonIM"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode9" class="tab-link nextprev-button" data-tab="Episode 9"><- Episode 9</a>
+                                <a href="#Episode11" class="tab-link nextprev-button" data-tab="Episode 11">Episode 11 -></a>
+                    </div>
                     <p class="" style="color: white;">I am not really sure why I called it trainer beatdown
                         considering I only went through route 9 which has only a handful of trainers.
                     </p>
@@ -1218,6 +1258,10 @@ include 'phpfolder/trainerlf.php';
                         Dank Tunnel"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="jV0cdqCj0SM"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode10" class="tab-link nextprev-button" data-tab="Episode 10"><- Episode 10</a>
+                                <a href="#Episode12" class="tab-link nextprev-button" data-tab="Episode 12">Episode 12 -></a>
+                    </div>
                     <p class="" style="color: white;">I went through Rock tunnel which was pretty dark and I
                         can barely navigate through it but at the end I managed to reach Lavender town.
                     </p>
@@ -1300,6 +1344,10 @@ include 'phpfolder/trainerlf.php';
                         Nothing Much, Just Trainers"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="NECzipb3f1Q"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode11" class="tab-link nextprev-button" data-tab="Episode 11"><- Episode 11</a>
+                                <a href="#Episode13" class="tab-link nextprev-button" data-tab="Episode 13">Episode 13 -></a>
+                    </div>
                     <p class="" style="color: white;">I went to the Pokémon tower first and only fought my
                         Rival there and I had to skip all of the trainers there and fight them another time. Next is
                         that I went through route 8, got my encounter and fought a lot of trainers and then reached
@@ -1386,6 +1434,10 @@ include 'phpfolder/trainerlf.php';
                         This Gym is Surprisingly Tough Without A Decent Fire"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="E-PzmNIxJHU"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode12" class="tab-link nextprev-button" data-tab="Episode 12"><- Episode 12</a>
+                                <a href="#Episode14" class="tab-link nextprev-button" data-tab="Episode 14">Episode 14 -></a>
+                    </div>
                     <p class="" style="color: white;">Like what the title suggested, I fought the Celadon
                         city gym but I had to get the HM for fly first in order to atleast make Crocodile more useful
                         during the fight because I don't have any fire type with me which made the battle a little
@@ -1448,6 +1500,10 @@ include 'phpfolder/trainerlf.php';
                         Good Thing This isn't Twitch Plays Pokémon"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="oE_9iu3atUA"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode13" class="tab-link nextprev-button" data-tab="Episode 13"><- Episode 13</a>
+                                <a href="#Episode15" class="tab-link nextprev-button" data-tab="Episode 15">Episode 15 -></a>
+                    </div>
                     <p class="" style="color: white;">I went inside the game corner and fought a suspicious
                         looking rocket grunt and found a hidden entrance to a rocket hideout. I breezed through the
                         grunts and fought their leader Giovanni which gave me a Silph scope after the fight.
@@ -1498,6 +1554,10 @@ include 'phpfolder/trainerlf.php';
                         Can Pokémon Talk when They're Dead?"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="zf8jWrXtPtk"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode14" class="tab-link nextprev-button" data-tab="Episode 14"><- Episode 14</a>
+                                <a href="#Episode16" class="tab-link nextprev-button" data-tab="Episode 16">Episode 16 -></a>
+                    </div>
                     <p class="" style="color: white;">I went back to Lavender town to finish my rampage in
                         the Pokémon tower. I fought through possessed trainers and right at the end of he 6th floor, I
                         fought a ghost that turns out to be a Marowak by using the silph scope which can speak for some
@@ -1560,6 +1620,10 @@ include 'phpfolder/trainerlf.php';
                         Trainer Mayhem"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="BQR6Hu9VTKA"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode15" class="tab-link nextprev-button" data-tab="Episode 15"><- Episode 15</a>
+                                <a href="#Episode17" class="tab-link nextprev-button" data-tab="Episode 17">Episode 17 -></a>
+                    </div>
                     <p class="" style="color: white;">The amount of trainers that I fought through this
                         episode was way too much! Hence the title name. Also, the amount of trainers that I fought in
                         this episode is nothing compared to what you will see on the next episode.
@@ -1671,6 +1735,10 @@ include 'phpfolder/trainerlf.php';
                         A Disastrous RAID"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="oOP7F5n4yCg"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode16" class="tab-link nextprev-button" data-tab="Episode 16"><- Episode 16</a>
+                                <a href="#Episode18" class="tab-link nextprev-button" data-tab="Episode 18">Episode 18 -></a>
+                    </div>
                     <p class="" style="color: white;">By far the longest and poorly structured episode in the
                         whole series. Way too many trainers, important deaths, training in-between the episode, and just
                         hard to keep up with. This is
@@ -1854,6 +1922,10 @@ include 'phpfolder/trainerlf.php';
                         Dojo Danger"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="gjpmWqYxJ-A"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode17" class="tab-link nextprev-button" data-tab="Episode 17"><- Episode 17</a>
+                                <a href="#Episode19" class="tab-link nextprev-button" data-tab="Episode 19">Episode 19 -></a>
+                    </div>
                     <p class="" style="color: white;">A little more chill compared to the last episode
                         considering the amount of Pokémon I encountered and trainers battled in this episode.
                     </p>
@@ -1912,6 +1984,10 @@ include 'phpfolder/trainerlf.php';
                         Ninja Saga"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="sZa7vQEctDo"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode18" class="tab-link nextprev-button" data-tab="Episode 18"><- Episode 18</a>
+                                <a href="#Episode20" class="tab-link nextprev-button" data-tab="Episode 20">Episode 20 -></a>
+                    </div>
                     <p class="" style="color: white;">I just battled through Koga's gym and that was it.
                     </p>
                     <span class="bigtext slightlysmall" style="color: white;">All encounters in this
@@ -1960,6 +2036,10 @@ include 'phpfolder/trainerlf.php';
                         SaBRUHna"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="ERiUE5cJOLg"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode19" class="tab-link nextprev-button" data-tab="Episode 19"><- Episode 19</a>
+                                <a href="#Episode21" class="tab-link nextprev-button" data-tab="Episode 21">Episode 21 -></a>
+                    </div>
                     <p class="" style="color: white;">Not really sure why I gave this episode that title. Maybe, it has
                         something to do with how hard the fight was?
                     </p>
@@ -2009,6 +2089,10 @@ include 'phpfolder/trainerlf.php';
                         "LOOK GUYS I DID MISSINGNO GLITCH IN POKÉMON LEAFGREEN"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="kQQN4n5lUUY"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode20" class="tab-link nextprev-button" data-tab="Episode 20"><- Episode 20</a>
+                                <a href="#Episode22" class="tab-link nextprev-button" data-tab="Episode 22">Episode 22 -></a>
+                    </div>
                     <p class="" style="color: white;">Clickbait title, I have fallen off.
                     </p>
                     <span class="bigtext slightlysmall" style="color: white;">All encounters in this
@@ -2169,6 +2253,10 @@ include 'phpfolder/trainerlf.php';
                         GOING INSIDE AN ABANBONED MANSION AT 3:00am NOT CLICKBAIT</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="8XeBrcVb8Zc"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode21" class="tab-link nextprev-button" data-tab="Episode 21"><- Episode 21</a>
+                                <a href="#Episode23" class="tab-link nextprev-button" data-tab="Episode 23">Episode 23 -></a>
+                    </div>
                     <p class="" style="color: white;">Another clickbait title, I have truly fallen off. Also, I trained
                         at the end of the episode.
                     </p>
@@ -2218,6 +2306,10 @@ include 'phpfolder/trainerlf.php';
                         I Blaine Myself for this Channel's Irrelevance</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="OfCklToL4gc"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode22" class="tab-link nextprev-button" data-tab="Episode 22"><- Episode 22</a>
+                                <a href="#Episode24" class="tab-link nextprev-button" data-tab="Episode 24">Episode 24 -></a>
+                    </div>
                     <p class="" style="color: white;">I have been making videos for about 6 years at this point in time
                         yet my channel is still pretty stagnant so yeah, that is why I titled it that way. Also, I
                         battled through Cinnabar Island's gym. Also also, I trained a bit at the end of the episode.
@@ -2269,6 +2361,10 @@ include 'phpfolder/trainerlf.php';
                         I, (Giorno) Giovanni, Have a Dream</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="ZcsQ8u02F30"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode23" class="tab-link nextprev-button" data-tab="Episode 23"><- Episode 23</a>
+                                <a href="#Episode25" class="tab-link nextprev-button" data-tab="Episode 25">Episode 25 -></a>
+                    </div>
                     <p class="" style="color: white;">I challenged the very last gym in the Kanto region and also headed
                         towards route 23 for the badge check in order to properly proceed to victory road. Though at the
                         end, I did a bit of segway and went to the Sevii islands to clear my mind for a bit.
@@ -2330,6 +2426,10 @@ include 'phpfolder/trainerlf.php';
                         That One Beach Episode of an Anime</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="X_VYsIDXHI8"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode24" class="tab-link nextprev-button" data-tab="Episode 24"><- Episode 24</a>
+                                <a href="#Episode26" class="tab-link nextprev-button" data-tab="Episode 26">Episode 26 -></a>
+                    </div>
                     <p class="" style="color: white;">Think of this episode as the filler arc of the series where
                         instead of going forward to the victory road and the Indigo Plateau, I decided to go to the
                         Sevii islands first in order to unwind.
@@ -2450,6 +2550,10 @@ include 'phpfolder/trainerlf.php';
                         Road to Victory</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="qnyAicICCgA"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode25" class="tab-link nextprev-button" data-tab="Episode 25"><- Episode 25</a>
+                                <a href="#Episode27" class="tab-link nextprev-button" data-tab="Episode 27">Episode 27 -></a>
+                    </div>
                     <p class="" style="color: white;">I continued my main adventure through the victory road in order
                         finally challenge the Elite four.
                     </p>
@@ -2498,6 +2602,10 @@ include 'phpfolder/trainerlf.php';
                         Lorelei is Surprisingly Tough</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="rmUrzubaPCo"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode26" class="tab-link nextprev-button" data-tab="Episode 26"><- Episode 26</a>
+                                <a href="#Episode28" class="tab-link nextprev-button" data-tab="Episode 28">Episode 28 -></a>
+                    </div>
                     <p class="" style="color: white;">In the first part of the episode I captured my encounter in
                         Victory Road which skipped last episode and then trained off screen to keep up with the levels
                         of the Elite four. The main thing in this episode is that I challenged Lorelei which is the
@@ -2551,6 +2659,10 @@ include 'phpfolder/trainerlf.php';
                         Bruh, no</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="Axi1QaG4GtU"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode27" class="tab-link nextprev-button" data-tab="Episode 27"><- Episode 27</a>
+                                <a href="#Episode29" class="tab-link nextprev-button" data-tab="Episode 29">Episode 29 -></a>
+                    </div>
                     <p class="" style="color: white;">Up next is Bruno the 2nd Elite four and a master of fighting
                         types.
                     </p>
@@ -2587,6 +2699,10 @@ include 'phpfolder/trainerlf.php';
                         Agatha</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="ifyfxoo2UKI"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode28" class="tab-link nextprev-button" data-tab="Episode 28"><- Episode 28</a>
+                                <a href="#Episode30" class="tab-link nextprev-button" data-tab="Episode 30">Episode 30 -></a>
+                    </div>
                     <p class="" style="color: white;">Up next is Agatha the 3rd Elite four and a master of ghost
                         types.
                     </p>
@@ -2623,6 +2739,10 @@ include 'phpfolder/trainerlf.php';
                         "You don't get to be Champion of the Pokemon League"</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="wz_crI8G2gM"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode29" class="tab-link nextprev-button" data-tab="Episode 29"><- Episode 29</a>
+                                <a href="Finale" class="tab-link nextprev-button" data-tab="Finale">Finale -></a>
+                    </div>
                     <p class="" style="color: white;">Up next is the last of the Elite 4, the dragon type master, Lance.
                     </p>
 
@@ -2658,6 +2778,10 @@ include 'phpfolder/trainerlf.php';
                         FINALLY! I FINISHED A SERIES IN THIS CHANNEL!</span>
                     <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="W2917TKe4OQ"></lite-youtube>
+                    <div class="episode-button">
+                        <a href="#Episode30" class="tab-link nextprev-button" data-tab="Episode 30"><- Episode 30</a>
+                                <a href="Review" class="tab-link nextprev-button" data-tab="Review">Review -></a>
+                    </div>
                     <p class="" style="color: white;">This is the last episode of the series and this is where I
                         challenged the final trainer before becoming champion, my rival Toadman.
                     </p>

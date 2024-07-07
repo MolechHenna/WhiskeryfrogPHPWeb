@@ -138,56 +138,75 @@ include 'php/arrowPopulate.php';
                         </div>
                     </div>
                     <div id="Episode1" class="tabcontent" style="display: none;">
-                        <div class="shaper">
-                            <span class="mediumtext">Episode 1: A Bow Run That Does Not Start With Any Arrows!</span>
-                            <lite-youtube class="youtubevideo" videoid="x0wNpI51TXk"></lite-youtube>
-                            <div class="containerMain">
-                                <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                        <span class="mediumtext">Episode 1: A Bow Run That Does Not Start With Any Arrows!</span>
+                        <lite-youtube class="youtubevideo" videoid="x0wNpI51TXk"></lite-youtube>
+                        <div class="episode-button">
+                            <a href="#Introduction" class="tab-link nextprev-button" data-tab="Introduction"><- Introduction</a>
+                                    <a href="#Episode2" class="tab-link nextprev-button" data-tab="Episode2">Episode 1 -></a>
+                        </div>
+                        <div class="containerMain">
+                            <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                        </div>
+                        <hr class="hrbreaker">
+                        <span class="mediumtext">HIGHLIGHTS</span>
+                        <div class="highlight-container">
+                            <div><img src="sprites/imageep1_1.webp" class="logobanner" alt="building a house"></div>
+                            <div>
+                                <p>I made my standard base which is near spawn so even if I die I would still be in a relatively safe area. Also, I made a couple of rooms in order for town NPCs to move in, in order to utilize their items especially the merchant since he sells arrows (at the time of recording, I did not know how you could craft arrows).</p>
                             </div>
-                            <hr class="hrbreaker">
-                            <span class="mediumtext">HIGHLIGHTS</span>
-
-                            <hr class="hrbreaker">
-                            <div class="containerMain clickable" onclick="toggleElement('displayepisode1')">
-                                <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>
-                                <div id="displayepisode1" class="rules-content" style="height: 0;">
-                                    <hr class="hrbreaker">
-                                    <div class="bowMasterDetails">
-                                        <div>
-                                            <div class="containerArmour padding-s">BowMaster64 / Life:100 <img src="sprites/others/PlayerHeart.png" class="" alt="heart"> / Mana:20 <img src="sprites/others/Mana.png" class="" alt="heart"></div>
-                                            <img src="sprites/characters/episodeTerraria.png" class="characterStyle" alt="">
+                        </div>
+                        <div class="highlight-container reverse">
+                            <div>
+                                <p>I found a cave and mined for a while for resources and also searched for valuable items and accessories in order to progress in game.</p>
+                            </div>
+                            <div><img src="sprites/imageep1_2.webp" class="logobanner" alt="building a house"></div>
+                        </div>
+                        <div class="highlight-container">
+                            <div><img src="sprites/imageep1_3.webp" class="logobanner" alt="building a house"></div>
+                            <div>
+                                <p>The merchant finally moved in my base so I could buy a lot of arrows for my bow run in order to fight enemies properly.</p>
+                            </div>
+                        </div>
+                        <hr class="hrbreaker">
+                        <div class="containerMain clickable" onclick="toggleElement('displayepisode1')">
+                            <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>
+                            <div id="displayepisode1" class="rules-content" style="height: 0;">
+                                <hr class="hrbreaker">
+                                <div class="bowMasterDetails">
+                                    <div>
+                                        <div class="containerArmour padding-s">BowMaster64 / Life:100 <img src="sprites/others/PlayerHeart.png" class="" alt="heart"> / Mana:20 <img src="sprites/others/Mana.png" class="" alt="heart"></div>
+                                        <img src="sprites/characters/episodeTerraria.png" class="characterStyle" alt="">
+                                    </div>
+                                    <div class="armourDetails">
+                                        Armour
+                                        <div class="containerArmour padding-s">
+                                            4
                                         </div>
-                                        <div class="armourDetails">
-                                            Armour
-                                            <div class="containerArmour padding-s">
-                                                4
-                                            </div>
-                                            <div class="containerArmour"><img src="sprites/armor/Shadewood_Helmet.png" class="" alt="Shadewood Helmet"></div>
-                                            <div class="containerArmour"><img src="sprites/armor/Shadewood_Breastplate.png" class="" alt="Shadewood Breastplate"></div>
-                                            <div class="containerArmour"><img src="sprites/armor/Boreal_Wood_Greaves.png" class="" alt="Boreal Wood Greeves"></div>
-                                        </div>
+                                        <div class="containerArmour"><img src="sprites/armor/Shadewood_Helmet.png" class="" alt="Shadewood Helmet"></div>
+                                        <div class="containerArmour"><img src="sprites/armor/Shadewood_Breastplate.png" class="" alt="Shadewood Breastplate"></div>
+                                        <div class="containerArmour"><img src="sprites/armor/Boreal_Wood_Greaves.png" class="" alt="Boreal Wood Greeves"></div>
+                                    </div>
 
-                                    </div>
-                                    <br>
-                                    Main Weapons
-                                    <div class="accessories">
-                                        <div class="containerArmour"><img src="sprites/bows/Tungsten_Bow.png" class="" alt=""></div>
-                                        <div class="containerArmour"><img src="sprites/arrows/Wooden_Arrow.webp" class="" alt=""></div>
-                                        <div class="containerArmour"><img src="sprites/arrows/Jester's_Arrow.webp" class="" alt=""></div>
-                                        <div class="containerArmour"><img src="sprites/arrows/Frostburn_Arrow.webp" class="" alt=""></div>
-                                        <div class="containerArmour"><img src="#" class="" alt="">?</div>
-                                        <div class="containerArmour"><img src="#" class="" alt="">?</div>
-                                    </div>
-                                    <br>
-                                    Accessories
-                                    <div class="accessories">
-                                        <div class="containerArmour"><img src="#" class="" alt="">?</div>
-                                        <div class="containerArmour"><img src="#" class="" alt="">?</div>
-                                        <div class="containerArmour"><img src="#" class="" alt="">?</div>
-                                        <div class="containerArmour"><img src="#" class="" alt="">?</div>
-                                        <div class="containerArmour"><img src="#" class="" alt="">?</div>
-                                        <div class="containerArmour notdiv"><img src="#" class="" alt="">?</div>
-                                    </div>
+                                </div>
+                                <br>
+                                Main Weapons
+                                <div class="accessories">
+                                    <div class="containerArmour"><img src="sprites/bows/Tungsten_Bow.png" class="" alt=""></div>
+                                    <div class="containerArmour"><img src="sprites/arrows/Wooden_Arrow.webp" class="" alt=""></div>
+                                    <div class="containerArmour"><img src="sprites/arrows/Jester's_Arrow.webp" class="" alt=""></div>
+                                    <div class="containerArmour"><img src="sprites/arrows/Frostburn_Arrow.webp" class="" alt=""></div>
+                                    <div class="containerArmour"><img src="#" class="" alt="">?</div>
+                                    <div class="containerArmour"><img src="#" class="" alt="">?</div>
+                                </div>
+                                <br>
+                                Accessories
+                                <div class="accessories">
+                                    <div class="containerArmour"><img src="#" class="" alt="">?</div>
+                                    <div class="containerArmour"><img src="#" class="" alt="">?</div>
+                                    <div class="containerArmour"><img src="#" class="" alt="">?</div>
+                                    <div class="containerArmour"><img src="#" class="" alt="">?</div>
+                                    <div class="containerArmour"><img src="#" class="" alt="">?</div>
+                                    <div class="containerArmour notdiv"><img src="#" class="" alt="">?</div>
                                 </div>
                             </div>
                         </div>
@@ -196,12 +215,33 @@ include 'php/arrowPopulate.php';
                         <div class="shaper">
                             <span class="mediumtext">Episode 2: Fishing For The Early META Pickaxe</span>
                             <lite-youtube class="youtubevideo" videoid="GwYaqM6AhFw"></lite-youtube>
+                            <div class="episode-button">
+                                <a href="#Episode1" class="tab-link nextprev-button" data-tab="Episode1"><- Episode 1</a>
+                                        <a href="#Episode3" class="tab-link nextprev-button" data-tab="Episode3">Episode 3 -></a>
+                            </div>
                             <div class="containerMain">
-                                <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                                <p class="textjustify">This episode was monstly spent on me attempting to reach (and failing) the ocean biome of my world in order to get the best pre-hardmode pickaxe you can have (at the time of recording).</p>
                             </div>
                             <hr class="hrbreaker">
                             <span class="mediumtext">HIGHLIGHTS</span>
-
+                            <div class="highlight-container">
+                                <div><img src="sprites/imageep1_1.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>I made my standard base which is near spawn so even if I die I would still be in a relatively safe area. Also, I made a couple of rooms in order for town NPCs to move in, in order to utilize their items especially the merchant since he sells arrows (at the time of recording, I did not know how you could craft arrows).</p>
+                                </div>
+                            </div>
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>I found a cave and mined for a while for resources and also searched for valuable items and accessories in order to progress in game.</p>
+                                </div>
+                                <div><img src="sprites/imageep1_2.webp" class="logobanner" alt="building a house"></div>
+                            </div>
+                            <div class="highlight-container">
+                                <div><img src="sprites/imageep1_3.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>The merchant finally moved in my base so I could buy a lot of arrows for my bow run in order to fight enemies properly.</p>
+                                </div>
+                            </div>
                             <hr class="hrbreaker">
                             <div class="containerMain clickable" onclick="toggleElement('displayepisode2')">
                                 <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>
@@ -250,6 +290,10 @@ include 'php/arrowPopulate.php';
                         <div class="shaper">
                             <span class="mediumtext">Episode 3: UPGRADES People, UPGRADES</span>
                             <lite-youtube class="youtubevideo" videoid="PgW91aFswKQ"></lite-youtube>
+                            <div class="episode-button">
+                                <a href="#Episode2" class="tab-link nextprev-button" data-tab="Episode2"><- Episode 2</a>
+                                        <a href="#Episode4" class="tab-link nextprev-button" data-tab="Episode4">Episode 4 -></a>
+                            </div>
                             <div class="containerMain">
                                 <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
                             </div>
@@ -305,6 +349,10 @@ include 'php/arrowPopulate.php';
                         <div class="shaper">
                             <span class="mediumtext">Episode 4: I Mine All Day</span>
                             <lite-youtube class="youtubevideo" videoid="cdW_gFCxoHo"></lite-youtube>
+                            <div class="episode-button">
+                                <a href="#Episode3" class="tab-link nextprev-button" data-tab="Episode3"><- Episode 3</a>
+                                        <a href="#Episode5" class="tab-link nextprev-button" data-tab="Episode5">Episode 5 -></a>
+                            </div>
                             <div class="containerMain">
                                 <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
                             </div>
@@ -359,6 +407,10 @@ include 'php/arrowPopulate.php';
                         <div class="shaper">
                             <span class="mediumtext">Episode 5: Double Trouble</span>
                             <lite-youtube class="youtubevideo" videoid="q3YLO81w2TA"></lite-youtube>
+                            <div class="episode-button">
+                                <a href="#Episode4" class="tab-link nextprev-button" data-tab="Episode4"><- Episode 4</a>
+                                        <a href="#Episode6" class="tab-link nextprev-button" data-tab="Episode6">Episode 6 -></a>
+                            </div>
                             <div class="containerMain">
                                 <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
                             </div>
@@ -413,6 +465,10 @@ include 'php/arrowPopulate.php';
                         <div class="shaper">
                             <span class="mediumtext">Episode 6: NO! NOT THE BEES!</span>
                             <lite-youtube class="youtubevideo" videoid="ttx-jv5cZ7k"></lite-youtube>
+                            <div class="episode-button">
+                                <a href="#Episode5" class="tab-link nextprev-button" data-tab="Episode5"><- Episode 5</a>
+                                        <a href="#Episode7" class="tab-link nextprev-button" data-tab="Episode7">Episode 7 -></a>
+                            </div>
                             <div class="containerMain">
                                 <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
                             </div>
@@ -467,6 +523,10 @@ include 'php/arrowPopulate.php';
                         <div class="shaper">
                             <span class="mediumtext">Episode 7: Brains and Bees</span>
                             <lite-youtube class="youtubevideo" videoid="mB9AEMTt2QQ"></lite-youtube>
+                            <div class="episode-button">
+                                <a href="#Episode6" class="tab-link nextprev-button" data-tab="Episode6"><- Episode 6</a>
+                                        <a href="#Episode7_5" class="tab-link nextprev-button" data-tab="Episode7_5">Episode 7.5 -></a>
+                            </div>
                             <div class="containerMain">
                                 <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
                             </div>
@@ -521,6 +581,10 @@ include 'php/arrowPopulate.php';
                         <div class="shaper">
                             <span class="mediumtext">Episode 7.5: Hardmode Preparation</span>
                             <lite-youtube class="youtubevideo" videoid="73Atqn_2Bvw"></lite-youtube>
+                            <div class="episode-button">
+                                <a href="#Episode7" class="tab-link nextprev-button" data-tab="Episode7"><- Episode 7</a>
+                                        <a href="#Episode8" class="tab-link nextprev-button" data-tab="Episode8">Episode 8 -></a>
+                            </div>
                             <div class="containerMain">
                                 <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
                             </div>
@@ -575,6 +639,10 @@ include 'php/arrowPopulate.php';
                         <div class="shaper">
                             <span class="mediumtext">Episode 8: Flesh & Bone</span>
                             <lite-youtube class="youtubevideo" videoid="7HK1-7gxeGQ"></lite-youtube>
+                            <div class="episode-button">
+                                <a href="#Episode7_5" class="tab-link nextprev-button" data-tab="Episode7_5"><- Episode 7.5</a>
+                                        <a href="#Episode9" class="tab-link nextprev-button" data-tab="Episode9">Episode 9 -></a>
+                            </div>
                             <div class="containerMain">
                                 <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
                             </div>
@@ -629,6 +697,10 @@ include 'php/arrowPopulate.php';
                         <div class="shaper">
                             <span class="mediumtext">Episode 9: Three Mech Bosses, One Episode</span>
                             <lite-youtube class="youtubevideo" videoid="7FMItw5FlNg"></lite-youtube>
+                            <div class="episode-button">
+                                <a href="#Episode8" class="tab-link nextprev-button" data-tab="Episode8"><- Episode 8</a>
+                                        <a href="#Episode10" class="tab-link nextprev-button" data-tab="Episode10">Episode 10 -></a>
+                            </div>
                             <div class="containerMain">
                                 <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
                             </div>
@@ -683,6 +755,10 @@ include 'php/arrowPopulate.php';
                         <div class="shaper">
                             <span class="mediumtext">Episode 10: I'm Slowly Losing My Mind Over these Grind Sessions</span>
                             <lite-youtube class="youtubevideo" videoid="pRojiLIdK34"></lite-youtube>
+                            <div class="episode-button">
+                                <a href="#Episode9" class="tab-link nextprev-button" data-tab="Episode9"><- Episode 9</a>
+                                        <a href="#Episode11" class="tab-link nextprev-button" data-tab="Episode11">Episode 11 -></a>
+                            </div>
                             <div class="containerMain">
                                 <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
                             </div>
@@ -737,6 +813,10 @@ include 'php/arrowPopulate.php';
                         <div class="shaper">
                             <span class="mediumtext">Episode 11: Disaster Episode</span>
                             <lite-youtube class="youtubevideo" videoid="cCJdAIDKetU"></lite-youtube>
+                            <div class="episode-button">
+                                <a href="#Episode10" class="tab-link nextprev-button" data-tab="Episode10"><- Episode 10</a>
+                                        <a href="#Episode11_5" class="tab-link nextprev-button" data-tab="Episode11_5">Episode 11.5 -></a>
+                            </div>
                             <div class="containerMain">
                                 <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
                             </div>
@@ -791,6 +871,10 @@ include 'php/arrowPopulate.php';
                         <div class="shaper">
                             <span class="mediumtext">Episode 11.5 : The Storm Before The Apocalypse</span>
                             <lite-youtube class="youtubevideo" videoid="aRpMD91nRxg"></lite-youtube>
+                            <div class="episode-button">
+                                <a href="#Episode11" class="tab-link nextprev-button" data-tab="Episode11"><- Episode 11</a>
+                                        <a href="#Episode12" class="tab-link nextprev-button" data-tab="Episode12">Episode 12 -></a>
+                            </div>
                             <div class="containerMain">
                                 <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
                             </div>
@@ -845,6 +929,10 @@ include 'php/arrowPopulate.php';
                         <div class="shaper">
                             <span class="mediumtext">Episode 12 : The Corruption a of Man</span>
                             <lite-youtube class="youtubevideo" videoid="nJyIlqyE-XQ"></lite-youtube>
+                            <div class="episode-button">
+                                <a href="#Episode11_5" class="tab-link nextprev-button" data-tab="Episode11_5"><- Episode 11.5</a>
+                                        <a href="Review" class="tab-link nextprev-button" data-tab="Review">Review -></a>
+                            </div>
                             <div class="containerMain">
                                 <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
                             </div>
@@ -901,7 +989,7 @@ include 'php/arrowPopulate.php';
                             <div class="containerMain">
                                 <span class="mediumtext">REVIEW</span>
                                 <p class="textjustify">Based on the quality of videos in this series, I would say that this is probably
-                                    the worst playthorugh I have on my Channel. Each episodes seems rushed, the quality of the videos themselves are inconsistent
+                                    the worst playthrough I have on my Channel. Each episodes seems rushed, the quality of the videos themselves are inconsistent
                                     from decent quality to bad, and most importantly, the series itself is not as comprehensive compared to my other playthroughs on my channel.
                                     I would also consider this the worst series on my channel due to my lack of skill when it comes to playing Terraria as a Ranger (Bow) and I often
                                     find myself struggling againsts bosses which added to the episodes being rushed. Overall, this challenge was HARD and a chore to beat due to the Ranger class being very
@@ -926,29 +1014,31 @@ include 'php/arrowPopulate.php';
                 </div>
             </div>
         </div>
-        <main>
-            <div class="footer">
-                <div class="leftside">
-                    <div class="smallscreen"> Support me on:</div>
-                    <a href="https://ko-fi.com/whiskeryfrog" target="_blank">
-                        <i class="fas fa-ko-fi"></i>
-                    </a>
-                </div>
-                <div class="rightSideF">
-                    <div class="smallscreen">Follow me on:</div>
-                    <a href="https://www.youtube.com/channel/UCWQhZn7Z-zg7VI_wpOLNKvA" target="_blank">
-                        <i class="fa-brands fa-youtube"></i>
-                    </a>
-                    <a href="https://odysee.com/@Whiskeryfrog" target="_blank">
-                        <i class="fa-brands fa-odysee"></i>
-                    </a>
-                    <a href="https://github.com/Whiskeryfrog" target="_blank">
-                        <i class="fa-brands fa-github"></i>
-                    </a>
-                </div>
+    </main>
+    <footer>
+        <div class="footer">
+            <div class="leftside">
+                <div class="smallscreen"> Support me on:</div>
+                <a href="https://ko-fi.com/whiskeryfrog" target="_blank">
+                    <i class="fas fa-ko-fi"></i>
+                </a>
             </div>
-            <script src="js/app.js"></script>
-            <script src="../../js/lite-yt-embed.js"></script>
+            <div class="rightSideF">
+                <div class="smallscreen">Follow me on:</div>
+                <a href="https://www.youtube.com/channel/UCWQhZn7Z-zg7VI_wpOLNKvA" target="_blank">
+                    <i class="fa-brands fa-youtube"></i>
+                </a>
+                <a href="https://odysee.com/@Whiskeryfrog" target="_blank">
+                    <i class="fa-brands fa-odysee"></i>
+                </a>
+                <a href="https://github.com/Whiskeryfrog" target="_blank">
+                    <i class="fa-brands fa-github"></i>
+                </a>
+            </div>
+        </div>
+    </footer>
+    <script src="js/app.js"></script>
+    <script src="../../js/lite-yt-embed.js"></script>
 </body>
 
 </html>

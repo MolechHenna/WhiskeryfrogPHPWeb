@@ -55,6 +55,8 @@ function changeTab(selectedValue) {
   currentSelection = selectedValue;
 }
 
+
+
 function toggleElement(elementId) {
   const element = document.getElementById(elementId);
 
