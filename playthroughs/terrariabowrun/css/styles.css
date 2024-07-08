@@ -280,6 +280,14 @@ body {
     margin-bottom: 15px;
     margin-top: 15px;
   }
+  .expert-mode-banner{
+    color: white;
+    background-color: rgb(56, 10, 139);
+    text-align: center;
+    width: 100%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+  }
 
   .monstersmallSize{
     height: 32px;
@@ -744,6 +752,9 @@ ul{
   width: 100%;
   padding: 15px;
   background-color: rgba(0, 0, 0, 0.754);
+  -webkit-box-shadow: -1px 0px 7px 0px rgba(0,0,0,0.56);
+-moz-box-shadow: -1px 0px 7px 0px rgba(0,0,0,0.56);
+box-shadow: -1px 0px 7px 0px rgba(0,0,0,0.56);
 }
 
 .nextprev-button:nth-child(1){
@@ -772,9 +783,73 @@ ul{
 
 .highlight-container .logobanner{
   border-radius: 15px;
+  -webkit-box-shadow: -1px 0px 7px 0px rgb(0, 0, 0);
+-moz-box-shadow: -1px 0px 7px 0px rgb(0, 0, 0);
+box-shadow: -1px 0px 7px 0px rgb(0, 0, 0);
+}
+
+.boss-section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.boss-section img{
+  height: auto;
+  max-width: 100px;
+  margin: 1vw;
+}
+
+.boss-section .bowMasterDetails{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.boss-section .containerArmour{
+  background-color: gray !important;
+  justify-content: center;
+  align-items: center;
+}
+
+.bossloot{
+  font-family: "Patrick Hand", cursive !important;
+  text-shadow: 2px 2px 0px black, 
+                 2px -2px 0px black, 
+           -2px 2px 0px black, 
+           -2px -2px 0px black, 
+           2px 0px 0px black, 
+           0px 2px 0px black, 
+           -2px 0px 0px black, 
+           0px -2px 0px black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.bossloot .loot{
+  background-color: gray;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 3px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.expert-loot{
+  background-color: rgb(98, 44, 199) !important;
 }
 
 
+.loot img{
+  height: auto;
+  max-width: 32px;
+}
 
 @media (max-width: 700px){
   .highlight-container{
@@ -794,8 +869,17 @@ ul{
 
   .highlight-container .logobanner{
     border-radius: 0px;
+    -webkit-box-shadow: -1px 0px 7px 0px rgba(0, 0, 0, 0);
+-moz-box-shadow: -1px 0px 7px 0px rgba(0, 0, 0, 0);
+box-shadow: -1px 0px 7px 0px rgb(0, 0, 0, 0);
+  }
+
+  .boss-section{
+    flex-direction: column;
   }
 }
+
+
 
 
   

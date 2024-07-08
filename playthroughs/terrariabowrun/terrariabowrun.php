@@ -150,7 +150,7 @@ include 'php/arrowPopulate.php';
                         <hr class="hrbreaker">
                         <span class="mediumtext">HIGHLIGHTS</span>
                         <div class="highlight-container">
-                            <div><img src="sprites/imageep1_1.webp" class="logobanner" alt="building a house"></div>
+                            <div><img src="sprites/episodeimage/imageep1_1.webp" class="logobanner" alt="building a house"></div>
                             <div>
                                 <p>I made my standard base which is near spawn so even if I die I would still be in a relatively safe area. Also, I made a couple of rooms in order for town NPCs to move in, in order to utilize their items especially the merchant since he sells arrows (at the time of recording, I did not know how you could craft arrows).</p>
                             </div>
@@ -159,10 +159,10 @@ include 'php/arrowPopulate.php';
                             <div>
                                 <p>I found a cave and mined for a while for resources and also searched for valuable items and accessories in order to progress in game.</p>
                             </div>
-                            <div><img src="sprites/imageep1_2.webp" class="logobanner" alt="building a house"></div>
+                            <div><img src="sprites/episodeimage/imageep1_2.webp" class="logobanner" alt="building a house"></div>
                         </div>
                         <div class="highlight-container">
-                            <div><img src="sprites/imageep1_3.webp" class="logobanner" alt="building a house"></div>
+                            <div><img src="sprites/episodeimage/imageep1_3.webp" class="logobanner" alt="building a house"></div>
                             <div>
                                 <p>The merchant finally moved in my base so I could buy a lot of arrows for my bow run in order to fight enemies properly.</p>
                             </div>
@@ -225,21 +225,21 @@ include 'php/arrowPopulate.php';
                             <hr class="hrbreaker">
                             <span class="mediumtext">HIGHLIGHTS</span>
                             <div class="highlight-container">
-                                <div><img src="sprites/imageep1_1.webp" class="logobanner" alt="building a house"></div>
+                                <div><img src="sprites/episodeimage/imageep2_1.webp" class="logobanner" alt="building a house"></div>
                                 <div>
-                                    <p>I made my standard base which is near spawn so even if I die I would still be in a relatively safe area. Also, I made a couple of rooms in order for town NPCs to move in, in order to utilize their items especially the merchant since he sells arrows (at the time of recording, I did not know how you could craft arrows).</p>
+                                    <p>I got ambushed by enemies in the crimson biome which happened many times in this episode in order to get the ocean biome of my world. I also tried to get to the west side of the world but there was also a crimson biome on that side.</p>
                                 </div>
                             </div>
                             <div class="highlight-container reverse">
                                 <div>
-                                    <p>I found a cave and mined for a while for resources and also searched for valuable items and accessories in order to progress in game.</p>
+                                    <p>I discovered the entrance of the dungeon in my world which is located on the east side of my world which I am not ready to enter just yet.</p>
                                 </div>
-                                <div><img src="sprites/imageep1_2.webp" class="logobanner" alt="building a house"></div>
+                                <div><img src="sprites/episodeimage/imageep2_2.webp" class="logobanner" alt="building a house"></div>
                             </div>
                             <div class="highlight-container">
-                                <div><img src="sprites/imageep1_3.webp" class="logobanner" alt="building a house"></div>
+                                <div><img src="sprites/episodeimage/imageep2_3.webp" class="logobanner" alt="building a house"></div>
                                 <div>
-                                    <p>The merchant finally moved in my base so I could buy a lot of arrows for my bow run in order to fight enemies properly.</p>
+                                    <p>I finally reached the ocean biome of my world and started fishing for a Reaver shark which at the time, was the best pre-hardmode pickaxe you could get.</p>
                                 </div>
                             </div>
                             <hr class="hrbreaker">
@@ -295,11 +295,28 @@ include 'php/arrowPopulate.php';
                                         <a href="#Episode4" class="tab-link nextprev-button" data-tab="Episode4">Episode 4 -></a>
                             </div>
                             <div class="containerMain">
-                                <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                                <p class="textjustify">This episode was me spending time mining for minerals in order to upgrade my current armour. </p>
                             </div>
                             <hr class="hrbreaker">
                             <span class="mediumtext">HIGHLIGHTS</span>
-
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep3_1.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>I went to a cave and mined for more minerals and resources.</p>
+                                </div>
+                            </div>
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>I crafted a bunch of armour to upgrade my current one.</p>
+                                </div>
+                                <div><img src="sprites/episodeimage/imageep3_3.webp" class="logobanner" alt="building a house"></div>
+                            </div>
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep3_2.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>I went to a desert cave (antlion hill?) in order to mine for more resources.</p>
+                                </div>
+                            </div>
                             <hr class="hrbreaker">
                             <div class="containerMain clickable" onclick="toggleElement('displayepisode3')">
                                 <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>
@@ -354,11 +371,28 @@ include 'php/arrowPopulate.php';
                                         <a href="#Episode5" class="tab-link nextprev-button" data-tab="Episode5">Episode 5 -></a>
                             </div>
                             <div class="containerMain">
-                                <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                                <p class="textjustify">This episode was spent mostly mining and also prepraring myself for the upcoming boss fights that I will need to face in the early game.</p>
                             </div>
                             <hr class="hrbreaker">
                             <span class="mediumtext">HIGHLIGHTS</span>
-
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep4_1.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>I went to a snow biome cave and decided to mine and explore for resources and accessries that may come in handy during the boss fight. </p>
+                                </div>
+                            </div>
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>After mining, I built an arena beside my base to make the fight with the Eye of Cthulhu more managable.</p>
+                                </div>
+                                <div><img src="sprites/episodeimage/imageep4_2.webp" class="logobanner" alt="building a house"></div>
+                            </div>
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep4_3.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>For some reason I decided to break one of the crimson hearts inside a crimson biome for some reason. I think I was trying to summon the meteorite early in my game in order to atleast have a better armour set than what I currently have.</p>
+                                </div>
+                            </div>
                             <hr class="hrbreaker">
                             <div class="containerMain clickable" onclick="toggleElement('displayepisode4')">
                                 <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>
@@ -412,11 +446,105 @@ include 'php/arrowPopulate.php';
                                         <a href="#Episode6" class="tab-link nextprev-button" data-tab="Episode6">Episode 6 -></a>
                             </div>
                             <div class="containerMain">
-                                <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                                <p class="textjustify">Just like what the title and thumbnail would suggest, I fought two bosses separately in this episode in order to progress fast in my playthrough.</p>
                             </div>
                             <hr class="hrbreaker">
                             <span class="mediumtext">HIGHLIGHTS</span>
-
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep5_1.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>I found the meteorite crash and mined (mostly blew it up) its resources in order to upgrade my armour further. </p>
+                                </div>
+                            </div>
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>I fought (cheesed) King slime just so I can say I beat him. Fighting him is not really mandatory to progress but he does drop some loot that you can use for whatever reason.</p>
+                                    <p><span style="color: yellow;">Strategy:</span> The cheese stategy for King Slime (which was removed on 1.4) is basically having a long rope, climb on top of it and throw grenades (I used a Bow and Arrow because I am on a Bow run) at King Slime and he basically cannot teleport to your location.</p>
+                                </div>
+                                <div><img src="sprites/episodeimage/imageep5_2.webp" class="logobanner" alt="building a house"></div>
+                            </div>
+                            <div class="containerMain">
+                                <span class="mediumtext">KING SLIME <img src="sprites/monsters/Map_Icon_King_Slime.png" border="0" alt="King Slime" /></span>
+                                <div class="boss-section">
+                                    <div class="bowMasterDetails">
+                                        <img src="sprites/monsters/King_Slime.gif" border="0" alt="King Slime" />
+                                        <div class="armourDetails">
+                                            <div class="containerArmour">Damage: 64</div>
+                                            <div class="containerArmour">Max Life: 2800</div>
+                                            <div class="containerArmour">Defense: 10</div>
+                                            <div class="containerArmour">Knockback Resistance: 100%</div>
+                                        </div>
+                                    </div>
+                                    <div class="expert-mode-banner">Expert-mode Loot</div>
+                                    <div class="bossloot">
+                                        <div class="loot">
+                                            <img src="sprites/others/Lesser_Healing_Potion.png" class="" alt="lesser healing potion">
+                                            <span>(5-15) 100%</span>
+                                        </div>
+                                        <div class="loot"><img src="sprites/others/King_Slime_Trophy.png" class="" alt="king slime trophy"><span>10%</span></div>
+                                        <div class="loot expert-loot"><img src="sprites/others/Treasure_Bag_(King_Slime).png" class="" alt="treasure bag"><span>100%</span></div>
+                                    </div>
+                                    <div class="expert-mode-banner">Treasure Bag Loot</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Royal_Gel.png" class="" alt="Royal Gel"><span>100%</span></div>
+                                        <div class="loot"><img src="sprites/others/King_Slime_Mask.png" class="" alt="King Slime mask"><span>14.29%</span></div>
+                                        <div class="loot"><img src="sprites/others/Slimy_Saddle.png" class="" alt="Slimy Saddle"><span>50%</span></div>
+                                    </div>
+                                    <div class="prehardmodeBanner">Two of the following items will be dropped</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/armor/Ninja_Hood.png" class="" alt="Ninja Hood"><span>67%</span></div>
+                                        <div class="loot"><img src="sprites/armor/Ninja_Shirt.png" class="" alt="Ninja Shirt"><span>67%</span></div>
+                                        <div class="loot"><img src="sprites/armor/Ninja_Pants.png" class="" alt="Ninja Pants"><span>67%</span></div>
+                                        <div class="loot"><img src="sprites/others/Slime_Gun.png" class="" alt="Slime Gun"><span>50%</span></div>
+                                    </div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Slime_Hook.png" class="" alt="Slime Hook"><span>50%</span></div>
+                                        <div class="loot"><img src="sprites/others/Solidifier.png" class="" alt="Solidifier"><span>100%</span></div>
+                                        <div class="loot"><img src="sprites/others/Gold_Coin.gif" class="" alt="Gold Coin"><span>(1) 100%</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <br><br>
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep5_3.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>Fought the Eye Of Cthulthu in order to get crimtane ore for me to upgrade my stuff.</p>
+                                    <p><span style="color: yellow;">Strategy:</span> To have an easy time with the Eye of Cthulhu, make a long platform and make sure to have Hermes boots (or any of its variants) equipped in order to keep distance with EOC.</p>
+                                </div>
+                            </div>
+                            <div class="containerMain">
+                                <span class="mediumtext">EYE OF CTHULTHU <img src="sprites/monsters/Map_Icon_Eye_of_Cthulhu_(first_form).png" onmouseover="this.src='sprites/monsters/Map_Icon_Eye_of_Cthulhu_(second_form).png'" onmouseout="this.src='sprites/monsters/Map_Icon_Eye_of_Cthulhu_(first_form).png'" border="0" alt="Eye of Cthulhu" /></span>
+                                <div class="boss-section">
+                                    <div class="bowMasterDetails">
+                                        <img src="sprites/monsters/Eye_of_Cthulhu_(Phase_1).gif" onmouseover="this.src='sprites/monsters/Eye_of_Cthulhu_(Second_Phase).gif'" onmouseout="this.src='sprites/monsters/Eye_of_Cthulhu_(Phase_1).gif'" border="0" alt="Eye of Cthulhu" />
+                                        <div class="armourDetails">
+                                            <div class="containerArmour">Damage: 30 - 36/40(<145 HP)</div>
+                                                    <div class="containerArmour">Max Life: 3640</div>
+                                                    <div class="containerArmour">Defense: 12 - 0</div>
+                                                    <div class="containerArmour">Knockback Resistance: 100%</div>
+                                            </div>
+                                        </div>
+                                        <div class="expert-mode-banner">Expert-mode Loot</div>
+                                        <div class="bossloot">
+                                            <div class="loot">
+                                                <img src="sprites/others/Lesser_Healing_Potion.png" class="" alt="lesser healing potion">
+                                                <span>(5-15) 100%</span>
+                                            </div>
+                                            <div class="loot"><img src="sprites/others/Eye_of_Cthulhu_Trophy.png" class="" alt="eye of cthulhu trophy"><span>10%</span></div>
+                                            <div class="loot expert-loot"><img src="sprites/others/Treasure_Bag_(Eye_of_Cthulhu).png" class="" alt="treasure bag"><span>100%</span></div>
+                                        </div>
+                                        <div class="expert-mode-banner">Treasure Bag Loot</div>
+                                        <div class="bossloot">
+                                            <div class="loot"><img src="sprites/others/Shield_of_Cthulhu.png" class="" alt="Shield of Cthulthu"><span>100%</span></div>
+                                            <div class="loot"><img src="sprites/others/Eye_of_Cthulhu_Mask.png" class="" alt="eye of cthulhu mask"><span>14.29%</span></div>
+                                            <div class="loot"><img src="sprites/others/Binoculars.png" class="" alt="Binoculars"><span>3.33%</span></div>
+                                            <div class="loot"><img src="sprites/others/Crimtane_Ore.png" class="" alt="Crimtane Ore"><span>(30-90) 100%</span></div>
+                                            <div class="loot"><img src="sprites/others/Crimson_Seeds.png" class="" alt="Crimson Seeds"><span>(1-3) 100%</span></div>
+                                            <div class="loot"><img src="sprites/others/Gold_Coin.gif" class="" alt="Gold Coin"><span>(3) 100%</span></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                             <hr class="hrbreaker">
                             <div class="containerMain clickable" onclick="toggleElement('displayepisode5')">
                                 <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>

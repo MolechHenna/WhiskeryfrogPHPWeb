@@ -496,7 +496,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 1" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Episode 1 - This series
                         will most likely be cancelled halfway through"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="z7nrU5ErHpk"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Introduction" class="tab-link nextprev-button" data-tab="Introduction"><- Introduction</a>
@@ -611,7 +610,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 2" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 2 -
                         Very Looooooooong forest"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="99NT8e4OhVY"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode1" class="tab-link nextprev-button" data-tab="Episode 1"><- Episode 1</a>
@@ -668,7 +666,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 3" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 3 -
                         Good thing I started with Squirtle"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="aY8DG28Y7MM"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode2" class="tab-link nextprev-button" data-tab="Episode 2"><- Episode 2</a>
@@ -734,7 +731,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 4" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 4 -
                         I Sped Up Most Pokémon Battles in this Episode"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="04JGG7xF-fs"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode3" class="tab-link nextprev-button" data-tab="Episode 3"><- Episode 3</a>
@@ -827,7 +823,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 5" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 5 -
                         Look Closely at the Thumbnail"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="fnuHq8D2c1Y"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode4" class="tab-link nextprev-button" data-tab="Episode 4"><- Episode 4</a>
@@ -915,7 +910,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 6" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 6 -
                         Not Too Thankful that my Starter is Squirtle"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="VJvnkvnBDIs"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode5" class="tab-link nextprev-button" data-tab="Episode 5"><- Episode 5</a>
@@ -963,7 +957,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 7" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 7 -
                         Vermillion dollars"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="39azBpM_r14"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode6" class="tab-link nextprev-button" data-tab="Episode 6"><- Episode 6</a>
@@ -1081,7 +1074,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 8" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 8 -
                         That Time I "GAME ENDED" my Rival's Raticate"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="6TtZLgiaI0w"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode7" class="tab-link nextprev-button" data-tab="Episode 7"><- Episode 7</a>
@@ -1131,7 +1123,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 9" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 9 -
                         Normal Rat V.S. Electric Rat"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="_qhjVqA1kco"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode8" class="tab-link nextprev-button" data-tab="Episode 8"><- Episode 8</a>
@@ -1183,7 +1174,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 10" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 10 -
                         Trainer Beatdown"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="klH7wJdonIM"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode9" class="tab-link nextprev-button" data-tab="Episode 9"><- Episode 9</a>
@@ -1256,7 +1246,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 11" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 11 -
                         Dank Tunnel"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="jV0cdqCj0SM"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode10" class="tab-link nextprev-button" data-tab="Episode 10"><- Episode 10</a>
@@ -1342,7 +1331,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 12" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 12 -
                         Nothing Much, Just Trainers"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="NECzipb3f1Q"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode11" class="tab-link nextprev-button" data-tab="Episode 11"><- Episode 11</a>
@@ -1432,7 +1420,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 13" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 13 -
                         This Gym is Surprisingly Tough Without A Decent Fire"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="E-PzmNIxJHU"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode12" class="tab-link nextprev-button" data-tab="Episode 12"><- Episode 12</a>
@@ -1498,7 +1485,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 14" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 14 -
                         Good Thing This isn't Twitch Plays Pokémon"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="oE_9iu3atUA"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode13" class="tab-link nextprev-button" data-tab="Episode 13"><- Episode 13</a>
@@ -1552,7 +1538,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 15" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 15 -
                         Can Pokémon Talk when They're Dead?"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="zf8jWrXtPtk"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode14" class="tab-link nextprev-button" data-tab="Episode 14"><- Episode 14</a>
@@ -1618,7 +1603,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 16" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 16 -
                         Trainer Mayhem"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="BQR6Hu9VTKA"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode15" class="tab-link nextprev-button" data-tab="Episode 15"><- Episode 15</a>
@@ -1733,7 +1717,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 17" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 17 -
                         A Disastrous RAID"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="oOP7F5n4yCg"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode16" class="tab-link nextprev-button" data-tab="Episode 16"><- Episode 16</a>
@@ -1920,7 +1903,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 18" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 18 -
                         Dojo Danger"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="gjpmWqYxJ-A"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode17" class="tab-link nextprev-button" data-tab="Episode 17"><- Episode 17</a>
@@ -1982,7 +1964,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 19" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 19 -
                         Ninja Saga"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="sZa7vQEctDo"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode18" class="tab-link nextprev-button" data-tab="Episode 18"><- Episode 18</a>
@@ -2034,7 +2015,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 20" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 20 -
                         SaBRUHna"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="ERiUE5cJOLg"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode19" class="tab-link nextprev-button" data-tab="Episode 19"><- Episode 19</a>
@@ -2087,7 +2067,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 21" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 21 -
                         "LOOK GUYS I DID MISSINGNO GLITCH IN POKÉMON LEAFGREEN"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="kQQN4n5lUUY"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode20" class="tab-link nextprev-button" data-tab="Episode 20"><- Episode 20</a>
@@ -2251,7 +2230,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 22" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 22 -
                         GOING INSIDE AN ABANBONED MANSION AT 3:00am NOT CLICKBAIT</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="8XeBrcVb8Zc"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode21" class="tab-link nextprev-button" data-tab="Episode 21"><- Episode 21</a>
@@ -2304,7 +2282,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 23" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 23 -
                         I Blaine Myself for this Channel's Irrelevance</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="OfCklToL4gc"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode22" class="tab-link nextprev-button" data-tab="Episode 22"><- Episode 22</a>
@@ -2359,7 +2336,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 24" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 24 -
                         I, (Giorno) Giovanni, Have a Dream</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="ZcsQ8u02F30"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode23" class="tab-link nextprev-button" data-tab="Episode 23"><- Episode 23</a>
@@ -2424,7 +2400,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 25" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 25 -
                         That One Beach Episode of an Anime</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="X_VYsIDXHI8"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode24" class="tab-link nextprev-button" data-tab="Episode 24"><- Episode 24</a>
@@ -2548,7 +2523,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 26" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 26 -
                         Road to Victory</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="qnyAicICCgA"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode25" class="tab-link nextprev-button" data-tab="Episode 25"><- Episode 25</a>
@@ -2600,7 +2574,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 27" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 27 -
                         Lorelei is Surprisingly Tough</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="rmUrzubaPCo"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode26" class="tab-link nextprev-button" data-tab="Episode 26"><- Episode 26</a>
@@ -2657,7 +2630,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 28" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 28 -
                         Bruh, no</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="Axi1QaG4GtU"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode27" class="tab-link nextprev-button" data-tab="Episode 27"><- Episode 27</a>
@@ -2697,7 +2669,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 29" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 29 -
                         Agatha</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="ifyfxoo2UKI"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode28" class="tab-link nextprev-button" data-tab="Episode 28"><- Episode 28</a>
@@ -2737,7 +2708,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Episode 30" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - Episode 30 -
                         "You don't get to be Champion of the Pokemon League"</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="wz_crI8G2gM"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode29" class="tab-link nextprev-button" data-tab="Episode 29"><- Episode 29</a>
@@ -2776,7 +2746,6 @@ include 'phpfolder/trainerlf.php';
                 <div id="Finale" class="tabcontent" style="display: none;">
                     <span class="bigtext slightlysmall" style="color: white;">"Pokémon LeafGreen Nuzlocke - FINALE -
                         FINALLY! I FINISHED A SERIES IN THIS CHANNEL!</span>
-                    <hr class="linebreaker">
                     <lite-youtube class="youtubevideo" videoid="W2917TKe4OQ"></lite-youtube>
                     <div class="episode-button">
                         <a href="#Episode30" class="tab-link nextprev-button" data-tab="Episode 30"><- Episode 30</a>
