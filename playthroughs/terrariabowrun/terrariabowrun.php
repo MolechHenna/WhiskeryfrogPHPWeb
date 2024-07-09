@@ -145,7 +145,7 @@ include 'php/arrowPopulate.php';
                                     <a href="#Episode2" class="tab-link nextprev-button" data-tab="Episode2">Episode 1 -></a>
                         </div>
                         <div class="containerMain">
-                            <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                            <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow.</p>
                         </div>
                         <hr class="hrbreaker">
                         <span class="mediumtext">HIGHLIGHTS</span>
@@ -463,7 +463,7 @@ include 'php/arrowPopulate.php';
                                 </div>
                                 <div><img src="sprites/episodeimage/imageep5_2.webp" class="logobanner" alt="building a house"></div>
                             </div>
-                            <div class="containerMain">
+                            <!-- <div class="containerMain">
                                 <span class="mediumtext">KING SLIME <img src="sprites/monsters/Map_Icon_King_Slime.png" border="0" alt="King Slime" /></span>
                                 <div class="boss-section">
                                     <div class="bowMasterDetails">
@@ -504,7 +504,7 @@ include 'php/arrowPopulate.php';
                                     </div>
                                 </div>
                             </div>
-                            <br><br>
+                            <br><br> -->
                             <div class="highlight-container">
                                 <div><img src="sprites/episodeimage/imageep5_3.webp" class="logobanner" alt="building a house"></div>
                                 <div>
@@ -512,7 +512,7 @@ include 'php/arrowPopulate.php';
                                     <p><span style="color: yellow;">Strategy:</span> To have an easy time with the Eye of Cthulhu, make a long platform and make sure to have Hermes boots (or any of its variants) equipped in order to keep distance with EOC.</p>
                                 </div>
                             </div>
-                            <div class="containerMain">
+                            <!-- <div class="containerMain">
                                 <span class="mediumtext">EYE OF CTHULTHU <img src="sprites/monsters/Map_Icon_Eye_of_Cthulhu_(first_form).png" onmouseover="this.src='sprites/monsters/Map_Icon_Eye_of_Cthulhu_(second_form).png'" onmouseout="this.src='sprites/monsters/Map_Icon_Eye_of_Cthulhu_(first_form).png'" border="0" alt="Eye of Cthulhu" /></span>
                                 <div class="boss-section">
                                     <div class="bowMasterDetails">
@@ -544,7 +544,7 @@ include 'php/arrowPopulate.php';
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <hr class="hrbreaker">
                             <div class="containerMain clickable" onclick="toggleElement('displayepisode5')">
                                 <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>
@@ -598,11 +598,35 @@ include 'php/arrowPopulate.php';
                                         <a href="#Episode7" class="tab-link nextprev-button" data-tab="Episode7">Episode 7 -></a>
                             </div>
                             <div class="containerMain">
-                                <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                                <p class="textjustify">A lot of things happened in this episode where it's so many that I decided to sped up majority of the parts in this video. In hindsight, in my opinion I thing I should have just let it played it. Also, this is probably the best thumbnail I have ever created.</p>
                             </div>
                             <hr class="hrbreaker">
                             <span class="mediumtext">HIGHLIGHTS</span>
-
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep6_1.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>I fought the Goblin army and successfully defended most of my NPC from them.</p>
+                                    <p><span style="color: yellow;">Strategy:</span> Just keep moving and make sure to use crowd control weapons or weapons that can pierce through more than one enemy.</p>
+                                </div>
+                            </div>
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>Explored the Jungle underground and rescued the Goblin Tinkerer which only spawns after a successfully finishing a Goblin army wave.</p>
+                                </div>
+                                <div><img src="sprites/episodeimage/imageep6_2.webp" class="logobanner" alt="building a house"></div>
+                            </div>
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep6_3.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>Found a Bee's nest and decided to fight Queen Bee although I failed.</p>
+                                </div>
+                            </div>
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>Made a hellevator and mined some hellstone ores to further upgrade my armour.</p>
+                                </div>
+                                <div><img src="sprites/episodeimage/imageep6_4.webp" class="logobanner" alt="building a house"></div>
+                            </div>
                             <hr class="hrbreaker">
                             <div class="containerMain clickable" onclick="toggleElement('displayepisode6')">
                                 <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>
@@ -656,11 +680,133 @@ include 'php/arrowPopulate.php';
                                         <a href="#Episode7_5" class="tab-link nextprev-button" data-tab="Episode7_5">Episode 7.5 -></a>
                             </div>
                             <div class="containerMain">
-                                <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                                <p class="textjustify">This episode was focused on me trying to defeat the next two bosses on my list. It was a pretty decent episode considering it only focused on two important things.</p>
                             </div>
                             <hr class="hrbreaker">
                             <span class="mediumtext">HIGHLIGHTS</span>
-
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep7_1.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>I fought the Queen bee on the jungle surface multiple times in order for me to get a better bow which is The Bee's Knees which is an extremely useful weapon againsts upcoming bosses.</p>
+                                    <p><span style="color: yellow;">Strategy:</span> DON'T FIGHT THE QUEEN BEE ON THE SURFACE OF THE JUNGLE. If she is outside a Jungle underground, she will be on her enraged state where her attacks and movements are faster than normal. Also build a long platform that has many elevation in order to avoid her ranged attacks and especially her charge attacks.</p>
+                                </div>
+                            </div>
+                            <!-- <div class="containerMain">
+                                <span class="mediumtext">QUEEN BEE <img src="sprites/monsters/Map_Icon_Queen_Bee.png" border="0" alt="Queen Bee" /></span>
+                                <div class="boss-section">
+                                    <div class="bowMasterDetails">
+                                        <img src="sprites/monsters/Queen_Bee_(old).gif" border="0" alt="Queen Bee" />
+                                        <div class="armourDetails">
+                                            <div class="containerArmour">Damage: 54(Melee)/44(Ranged)</div>
+                                            <div class="containerArmour">Max Life: 4760</div>
+                                            <div class="containerArmour">Defense: 8-28</div>
+                                            <div class="containerArmour">Knockback Resistance: 100%</div>
+                                        </div>
+                                    </div>
+                                    <div class="expert-mode-banner">Expert-mode Loot</div>
+                                    <div class="bossloot">
+                                        <div class="loot">
+                                            <img src="sprites/others/Bottled_Honey.png" class="" alt="Bottled Honey">
+                                            <span>(5-15) 100%</span>
+                                        </div>
+                                        <div class="loot"><img src="sprites/others/Queen_Bee_Trophy.png" class="" alt="Queen Bee trophy"><span>10%</span></div>
+                                        <div class="loot expert-loot"><img src="sprites/others/Treasure_Bag_(Queen_Bee).png" class="" alt="treasure bag"><span>100%</span></div>
+                                    </div>
+                                    <div class="expert-mode-banner">Treasure Bag Loot</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Hive_Pack.png" class="" alt="Hive Pack"><span>100%</span></div>
+                                        <div class="loot"><img src="sprites/others/Queen_Bee_Mask.png" class="" alt="Queen Bee mask"><span>14.29%</span></div>
+                                    </div>
+                                    <div class="prehardmodeBanner">One of the following items will be dropped</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Bee_Gun.png" class="" alt="Bee Gun"><span>33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Bee_Keeper.png" class="" alt="Bee Keeper"><span>33%</span></div>
+                                        <div class="loot"><img src="sprites/bows/The_Bee's_Knees.png" class="" alt="Bee's Knees"><span>33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Honey_Comb.png" class="" alt="Honey Comb"><span>33%</span></div>
+                                    </div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Nectar.png" class="" alt="Nectar"><span>11%</span></div>
+                                        <div class="loot"><img src="sprites/others/Honeyed_Goggles.png" class="" alt="Honeyed Goggles"><span>11%</span></div>
+                                        <div class="loot"><img src="sprites/others/Hive_Wand.png" class="" alt="Hive Wand"><span>100%</span></div>
+                                    </div>
+                                    <div class="prehardmodeBanner">And another one of the following items will be dropped</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Bee_Hat.png" class="" alt="Bee Hat"><span>33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Bee_Shirt.png" class="" alt="Bee Shirt"><span>33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Bee_Pants.png" class="" alt="Bee Pants"><span>33%</span></div>
+                                    </div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Beenade.png" class="" alt="Beenade"><span>(10-29) 100%</span></div>
+                                        <div class="loot"><img src="sprites/others/Bee_Wax.png" class="" alt="Bee Wax"><span>(17-29) 100%</span></div>
+                                        <div class="loot"><img src="sprites/others/Gold_Coin.gif" class="" alt="Gold Coin"><span>(10) 100%</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <br>
+                            <br> -->
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>I went to a Crimson biome "cave" and decided to build an arena inside the "heart" and fought the Brain of Cthulhu which was challenging because of its tricky way of fighting you.</p>
+                                    <p><span style="color: yellow;">Strategy:</span> Make sure to build an arena with an open space that also has many elevations for movement. Use weapons that can pierce through one target in order to get rid of Creepers fast in the BoC first phase. On its second phase, you would have to keep a sharp eye on which one of the four BoCs is, at first it is easy to tell because the fakes are less opaque than the real one but the lower its health the harder it is to spot. If you are having a hard time spotting it, just look at the minimap.</p>
+                                </div>
+                                <div><img src="sprites/episodeimage/imageep7_2.webp" class="logobanner" alt="building a house"></div>
+                            </div>
+                            <!-- <div class="containerMain">
+                                <span class="mediumtext">BRAIN OF CTHULHU <img src="sprites/monsters/Map_Icon_Brain_of_Cthulhu.png" border="0" alt="Brain of Cthulhu" /></span>
+                                <div class="boss-section">
+                                    <div class="bowMasterDetails">
+                                        <img src="sprites/monsters/Brain_of_Cthulhu_(First_Phase).gif" onmouseover="this.src='sprites/monsters/Brain_of_Cthulhu_(Second_Phase).gif'" onmouseout="this.src='sprites/monsters/Brain_of_Cthulhu_(First_Phase).gif'" border="0" alt="Brain of Cthulhu" />
+                                        <div class="armourDetails">
+                                            <div class="containerArmour">Damage: 54</div>
+                                            <div class="containerArmour">Max Life: 2125</div>
+                                            <div class="containerArmour">Defense: 14</div>
+                                            <div class="containerArmour">Knockback Resistance: 100% - 60%</div>
+                                        </div>
+                                        <img src="sprites/monsters/Creeper_(old).png" border="0" alt="Creepers" />
+                                        <div class="armourDetails">
+                                            <div class="containerArmour">Damage: 36</div>
+                                            <div class="containerArmour">Max Life: 170</div>
+                                            <div class="containerArmour">Defense: 10</div>
+                                            <div class="containerArmour">Knockback Resistance: 28%</div>
+                                        </div>
+                                    </div>
+                                    <div class="bossloot">
+                                        <div style="margin-right:10px;">
+                                            <div class="expert-mode-banner">Expert-mode Loot - Brain of Cthulhu</div>
+                                            <div class="bossloot">
+                                                <div class="loot">
+                                                    <img src="sprites/others/Lesser_Healing_Potion.png" class="" alt="Lesser Healing Potion">
+                                                    <span>(5-15) 100%</span>
+                                                </div>
+                                                <div class="loot"><img src="sprites/others/Brain_of_Cthulhu_Trophy.png" class="" alt="Brain of Cthulhu trophy"><span>10%</span></div>
+                                                <div class="loot expert-loot"><img src="sprites/others/Treasure_Bag_(Brain_of_Cthulhu).png" class="" alt="treasure bag"><span>100%</span></div>
+                                            </div>
+                                        </div>
+                                        <div>
+                                            <div class="expert-mode-banner">Expert-mode Loot - Creeper</div>
+                                            <div class="bossloot">
+                                                <div class="loot">
+                                                    <img src="sprites/others/Tissue_Sample.png" class="" alt="Tissue Sample">
+                                                    <span>(2-5) 66.67%</span>
+                                                </div>
+                                                <div class="loot"><img src="sprites/others/Crimtane_Ore.png" class="" alt="Crimtane Ore"><span>(5-12) 66.67%</span></div>
+                                                <div class="loot"><img src="sprites/others/PlayerHeart.png" class="" alt="Hearts"><span>50%</span></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="expert-mode-banner">Treasure Bag Loot</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Brain_of_Confusion.png" class="" alt="Brain of Confusion"><span>100%</span></div>
+                                        <div class="loot"><img src="sprites/others/Brain_of_Cthulhu_Mask.png" class="" alt="Brain of Cthulhu mask"><span>14.29%</span></div>
+                                        <div class="loot"><img src="sprites/others/Crimtane_Ore.png" class="" alt="Crimtane Ore"><span>(40-90) 100%</span></div>
+                                    </div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Tissue_Sample.png" class="" alt="Tissue Sample"><span>(10-19) 100%</span></div>
+                                        <div class="loot"><img src="sprites/others/Bone_Rattle.png" class="" alt="Bone Rattle"><span>5%</span></div>
+                                        <div class="loot"><img src="sprites/others/Gold_Coin.gif" class="" alt="Gold Coin"><span>(1) 100%</span></div>
+                                    </div>
+                                </div>
+                            </div> -->
                             <hr class="hrbreaker">
                             <div class="containerMain clickable" onclick="toggleElement('displayepisode7')">
                                 <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>
@@ -714,11 +860,34 @@ include 'php/arrowPopulate.php';
                                         <a href="#Episode8" class="tab-link nextprev-button" data-tab="Episode8">Episode 8 -></a>
                             </div>
                             <div class="containerMain">
-                                <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                                <p class="textjustify">This episode was mostly spent trying to prepare myself for the upcoming boss fights as well as preparing myself for hardmode.</p>
                             </div>
                             <hr class="hrbreaker">
                             <span class="mediumtext">HIGHLIGHTS</span>
-
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep7_5_1.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>I built a new base for me and my NPCs which has a flower farm on top of it. Also, the base kinda resembles an arrow which is an homage to the series.</p>
+                                </div>
+                            </div>
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>I built another base on the jungle biome of my world in order to prepare myself for hardmode where in 1.3 at night, you can buy Leaf Wings from the Witch Doctor</p>
+                                </div>
+                                <div><img src="sprites/episodeimage/imageep7_5_2.webp" class="logobanner" alt="building a house"></div>
+                            </div>
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep7_5_3.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>Created a mob grinder on the snow biome so I can farm Ice golems on hardmode.</p>
+                                </div>
+                            </div>
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>Created a long platform in the underworld in order to make the fight with the Wall of flesh easier. </p>
+                                </div>
+                                <div><img src="sprites/episodeimage/imageep7_5_4.webp" class="logobanner" alt="building a house"></div>
+                            </div>
                             <hr class="hrbreaker">
                             <div class="containerMain clickable" onclick="toggleElement('displayepisode7_5')">
                                 <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>
@@ -772,11 +941,120 @@ include 'php/arrowPopulate.php';
                                         <a href="#Episode9" class="tab-link nextprev-button" data-tab="Episode9">Episode 9 -></a>
                             </div>
                             <div class="containerMain">
-                                <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                                <p class="textjustify">This episode was first spent recaping what I did on the last episode as well as some off-screen things that I have done with my world. Also, I dediced to fight the two remaining pre-hardmode bosses that are left.</p>
                             </div>
                             <hr class="hrbreaker">
                             <span class="mediumtext">HIGHLIGHTS</span>
-
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep8_1.webp" class="logobanner" alt="Fighting Skeletron"></div>
+                                <div>
+                                    <p>I went to the entrance of the dungeon at night and fought Skeletron in order to gain access to the dungeon and upgrade my armour that is more fitting of a ranger class.</p>
+                                    <p><span style="color: yellow;">Strategy:</span> Build a platform with many elevations. When fighting it, just keep moving especially if Skeletron does the spinning attack which if you are caught by it, will result to you being stun locked and then killed.</p>
+                                </div>
+                            </div>
+                            <!-- <div class="containerMain">
+                                <span class="mediumtext">SKELETRON <img src="sprites/monsters/Map_Icon_Skeletron.png" border="0" alt="Skeletron" /></span>
+                                <div class="boss-section">
+                                    <div class="bowMasterDetails">
+                                        <img src="sprites/monsters/Skeletron_Head.png" alt="Skeletron" />
+                                        <div class="armourDetails">
+                                            <div class="containerArmour">Damage: 70</div>
+                                            <div class="containerArmour">Max Life: 8800</div>
+                                            <div class="containerArmour">Defense: 10+25 per hand alive, 0-25 per hand alive</div>
+                                            <div class="containerArmour">Knockback Resistance: 100%</div>
+                                        </div>
+                                        <img src="sprites/monsters/Skeletron_Hand_(NPC)_(old).png" border="0" alt="Skeletron Hand" />
+                                        <div class="armourDetails">
+                                            <div class="containerArmour">Damage: 44</div>
+                                            <div class="containerArmour">Max Life: 1560</div>
+                                            <div class="containerArmour">Defense: 14</div>
+                                            <div class="containerArmour">Knockback Resistance: 100%</div>
+                                        </div>
+                                    </div>
+                                    <div class="expert-mode-banner">Expert-mode Loot - Skeletron</div>
+                                    <div class="bossloot">
+                                        <div class="bossloot">
+                                            <div class="loot">
+                                                <img src="sprites/others/Lesser_Healing_Potion.png" class="" alt="Lesser Healing Potion">
+                                                <span>(5-15) 100%</span>
+                                            </div>
+                                            <div class="loot"><img src="sprites/others/Skeletron_Trophy.png" class="" alt="Skeletron trophy"><span>10%</span></div>
+                                            <div class="loot expert-loot"><img src="sprites/others/Treasure_Bag_(Skeletron).png" class="" alt="treasure bag"><span>100%</span></div>
+                                        </div>
+                                    </div>
+                                    <div class="expert-mode-banner">Treasure Bag Loot</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Bone_Glove.png" class="" alt="Bone Glove"><span>100%</span></div>
+                                    </div>
+                                    <div class="prehardmodeBanner">One of the following items will be dropped</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Skeletron_Mask.png" class="" alt="Skeleton Mask"><span>33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Skeletron_Hand.png" class="" alt="Skeletron hand"><span>33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Book_of_Skulls.png" class="" alt="Book of Skulls"><span>33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Gold_Coin.gif" class="" alt="Gold Coin"><span>(5) 100%</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <br><br> -->
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>I built another base on the jungle biome of my world in order to prepare myself for hardmode where in 1.3 at night, you can buy Leaf Wings from the Witch Doctor</p>
+                                    <p><span style="color: yellow;">Strategy:</span> Build a long hell bridge that spans halfway through the whole underworld. Use weapons that pierces enemies in order for your attacks to actually hit the Wall of Flesh itself instead of the Hungries and leeches.</p>
+                                </div>
+                                <div><img src="sprites/episodeimage/imageep8_2.webp" class="logobanner" alt="Fighting Wall of Flesh"></div>
+                            </div>
+                            <!-- <div class="containerMain">
+                                <span class="mediumtext">WALL OF FLESH <img src="sprites/monsters/Map_Icon_Wall_of_Flesh.png" border="0" alt="Wall of Flesh" /></span>
+                                <div class="boss-section">
+                                    <div class="bowMasterDetails">
+                                        <img src="sprites/monsters/Wall_of_Flesh.gif" alt="Wall of Flesh" />
+                                        <div class="armourDetails">
+                                            <div class="containerArmour">Damage: 150</div>
+                                            <div class="containerArmour">Max Life: 11200</div>
+                                            <div class="containerArmour">Defense: 18</div>
+                                            <div class="containerArmour">Knockback Resistance: 100%</div>
+                                        </div>
+                                    </div>
+                                    <div class="expert-mode-banner">Expert-mode Loot - Wall of Flesh</div>
+                                    <div class="bossloot">
+                                        <div class="bossloot">
+                                            <div class="loot">
+                                                <img src="sprites/others/Healing_Potion.png" class="" alt="Healing Potion">
+                                                <span>(5-15) 100%</span>
+                                            </div>
+                                            <div class="loot"><img src="sprites/others/Wall_of_Flesh_Trophy.png" class="" alt="Wall of Flesh trophy"><span>10%</span></div>
+                                            <div class="loot expert-loot"><img src="sprites/others/Treasure_Bag_(Wall_of_Flesh).png" class="" alt="treasure bag"><span>100%</span></div>
+                                        </div>
+                                    </div>
+                                    <div class="expert-mode-banner">Treasure Bag Loot</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Demon_Heart.png" class="" alt="Demon Heart"><span>100%</span></div>
+                                        <div class="loot"><img src="sprites/others/Wall_of_Flesh_Mask.png" class="" alt="Wall of Flesh Mask"><span>14.29%</span></div>
+                                        <div class="loot"><img src="sprites/others/Pwnhammer.png" class="" alt="Pwnhammer"><span>100%</span></div>
+                                    </div>
+                                    <div class="prehardmodeBanner">One of the following items will be dropped</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Warrior_Emblem.png" class="" alt="Warrior Emblem"><span>25%</span></div>
+                                        <div class="loot"><img src="sprites/others/Ranger_Emblem.png" class="" alt="Ranger Emblem"><span>25%</span></div>
+                                        <div class="loot"><img src="sprites/others/Sorcerer_Emblem.png" class="" alt="Sorcerer Emblem"><span>25%</span></div>
+                                        <div class="loot"><img src="sprites/others/Summoner_Emblem.png" class="" alt="Summoner Embem"><span>25%</span></div>
+                                    </div>
+                                    <div class="prehardmodeBanner">And also one of the following items will be dropped</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Breaker_Blade.png" class="" alt="Breaker Blade"><span>33.33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Clockwork_Assault_Rifle.png" class="" alt="Clockwork Assault Rifle"><span>33.33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Laser_Rifle.png" class="" alt="Laser Rifle"><span>33.33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Gold_Coin.gif" class="" alt="Gold Coin"><span>(8) 100%</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <br><br> -->
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep8_3.webp" class="logobanner" alt="Hallow Biome"></div>
+                                <div>
+                                    <p>After transforming my world into hardmode, I search and looked for where the Hallow spawned within my world.</p>
+                                </div>
+                            </div>
                             <hr class="hrbreaker">
                             <div class="containerMain clickable" onclick="toggleElement('displayepisode8')">
                                 <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>
@@ -830,11 +1108,159 @@ include 'php/arrowPopulate.php';
                                         <a href="#Episode10" class="tab-link nextprev-button" data-tab="Episode10">Episode 10 -></a>
                             </div>
                             <div class="containerMain">
-                                <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                                <p class="textjustify">The episode was mostly sped up to prepare myself with early hardmode in order to fight the three mechanical bosses IN ONE EPISODE.</p>
                             </div>
                             <hr class="hrbreaker">
                             <span class="mediumtext">HIGHLIGHTS</span>
-
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep9_1.webp" class="logobanner" alt="Fighting Skeletron"></div>
+                                <div>
+                                    <p>I first built a platform above mt base where I will fight The Destroyer. Then I fought The Destroyer which was the easiest boss out of the three mechanical bosses</p>
+                                    <p><span style="color: yellow;">Strategy:</span> Build a platform way above ground and just make to sure to not get hit by the lasers and the head of the destroyer. The only real tip I could give with regards to weapons is use Daedalus Stormbow with Holy Arrows, THAT'S IT.</p>
+                                </div>
+                            </div>
+                            <!-- <div class="containerMain">
+                                <span class="mediumtext">THE DESTROYER <img src="sprites/monsters/Map_Icon_The_Destroyer.png" border="0" alt="The destroyer" /></span>
+                                <div class="boss-section">
+                                    <div class="bowMasterDetails">
+                                        <img src="sprites/monsters/The_Destroyer.png" alt="Destroyer" />
+                                        <div class="armourDetails">
+                                            <div class="containerArmour">Damage: 280(Head), 93/72(Meelee/Laser Body), 68(Tail)</div>
+                                            <div class="containerArmour">Max Life: 120000</div>
+                                            <div class="containerArmour">Defense: 0(Head), 30(Body), 35(Tail)</div>
+                                            <div class="containerArmour">Knockback Resistance: 100%</div>
+                                        </div>
+                                    </div>
+                                    <div class="expert-mode-banner">Expert-mode Loot - Skeletron</div>
+                                    <div class="bossloot">
+                                        <div class="bossloot">
+                                            <div class="loot">
+                                                <img src="sprites/others/Lesser_Healing_Potion.png" class="" alt="Lesser Healing Potion">
+                                                <span>(5-15) 100%</span>
+                                            </div>
+                                            <div class="loot"><img src="sprites/others/Skeletron_Trophy.png" class="" alt="Skeletron trophy"><span>10%</span></div>
+                                            <div class="loot expert-loot"><img src="sprites/others/Treasure_Bag_(Skeletron).png" class="" alt="treasure bag"><span>100%</span></div>
+                                        </div>
+                                    </div>
+                                    <div class="expert-mode-banner">Treasure Bag Loot</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Bone_Glove.png" class="" alt="Bone Glove"><span>100%</span></div>
+                                    </div>
+                                    <div class="prehardmodeBanner">One of the following items will be dropped</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Skeletron_Mask.png" class="" alt="Skeleton Mask"><span>33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Skeletron_Hand.png" class="" alt="Skeletron hand"><span>33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Book_of_Skulls.png" class="" alt="Book of Skulls"><span>33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Gold_Coin.gif" class="" alt="Gold Coin"><span>(5) 100%</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <br><br> -->
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>I fought Skeletron Prime which was a bit more challenging but succeeded nonetheless</p>
+                                    <p><span style="color: yellow;">Strategy:</span> The fight is similar with Skeletron where you just need to keep your distance and make sure to not get caught up with its spinning head attack.</p>
+                                </div>
+                                <div><img src="sprites/episodeimage/imageep9_2.webp" class="logobanner" alt="Fighting Wall of Flesh"></div>
+                            </div>
+                            <!-- <div class="containerMain">
+                                <span class="mediumtext">SKELETRON PRIME <img src="sprites/monsters/Map_Icon_Wall_of_Flesh.png" border="0" alt="Wall of Flesh" /></span>
+                                <div class="boss-section">
+                                    <div class="bowMasterDetails">
+                                        <img src="sprites/monsters/Wall_of_Flesh.gif" alt="Wall of Flesh" />
+                                        <div class="armourDetails">
+                                            <div class="containerArmour">Damage: 150</div>
+                                            <div class="containerArmour">Max Life: 11200</div>
+                                            <div class="containerArmour">Defense: 18</div>
+                                            <div class="containerArmour">Knockback Resistance: 100%</div>
+                                        </div>
+                                    </div>
+                                    <div class="expert-mode-banner">Expert-mode Loot - Wall of Flesh</div>
+                                    <div class="bossloot">
+                                        <div class="bossloot">
+                                            <div class="loot">
+                                                <img src="sprites/others/Healing_Potion.png" class="" alt="Healing Potion">
+                                                <span>(5-15) 100%</span>
+                                            </div>
+                                            <div class="loot"><img src="sprites/others/Wall_of_Flesh_Trophy.png" class="" alt="Wall of Flesh trophy"><span>10%</span></div>
+                                            <div class="loot expert-loot"><img src="sprites/others/Treasure_Bag_(Wall_of_Flesh).png" class="" alt="treasure bag"><span>100%</span></div>
+                                        </div>
+                                    </div>
+                                    <div class="expert-mode-banner">Treasure Bag Loot</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Demon_Heart.png" class="" alt="Demon Heart"><span>100%</span></div>
+                                        <div class="loot"><img src="sprites/others/Wall_of_Flesh_Mask.png" class="" alt="Wall of Flesh Mask"><span>14.29%</span></div>
+                                        <div class="loot"><img src="sprites/others/Pwnhammer.png" class="" alt="Pwnhammer"><span>100%</span></div>
+                                    </div>
+                                    <div class="prehardmodeBanner">One of the following items will be dropped</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Warrior_Emblem.png" class="" alt="Warrior Emblem"><span>25%</span></div>
+                                        <div class="loot"><img src="sprites/others/Ranger_Emblem.png" class="" alt="Ranger Emblem"><span>25%</span></div>
+                                        <div class="loot"><img src="sprites/others/Sorcerer_Emblem.png" class="" alt="Sorcerer Emblem"><span>25%</span></div>
+                                        <div class="loot"><img src="sprites/others/Summoner_Emblem.png" class="" alt="Summoner Embem"><span>25%</span></div>
+                                    </div>
+                                    <div class="prehardmodeBanner">And also one of the following items will be dropped</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Breaker_Blade.png" class="" alt="Breaker Blade"><span>33.33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Clockwork_Assault_Rifle.png" class="" alt="Clockwork Assault Rifle"><span>33.33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Laser_Rifle.png" class="" alt="Laser Rifle"><span>33.33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Gold_Coin.gif" class="" alt="Gold Coin"><span>(8) 100%</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <br><br> -->
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep9_3.webp" class="logobanner" alt="Hallow Biome"></div>
+                                <div>
+                                    <p>I fought The Twins which was the hardest of three Mechanical Bosses.</p>
+                                    <p><span style="color: yellow;">Strategy:</span> Build a long run on the sky biome and make sure to keep your distance with them. Make sure to also not to move off bounds as they could potentially despawn, ending the fight prematurely.</p>
+                                </div>
+                            </div>
+                            <!-- <div class="containerMain">
+                                <span class="mediumtext">THE TWINS <img src="sprites/monsters/Map_Icon_Wall_of_Flesh.png" border="0" alt="Wall of Flesh" /></span>
+                                <div class="boss-section">
+                                    <div class="bowMasterDetails">
+                                        <img src="sprites/monsters/Wall_of_Flesh.gif" alt="Wall of Flesh" />
+                                        <div class="armourDetails">
+                                            <div class="containerArmour">Damage: 150</div>
+                                            <div class="containerArmour">Max Life: 11200</div>
+                                            <div class="containerArmour">Defense: 18</div>
+                                            <div class="containerArmour">Knockback Resistance: 100%</div>
+                                        </div>
+                                    </div>
+                                    <div class="expert-mode-banner">Expert-mode Loot - Wall of Flesh</div>
+                                    <div class="bossloot">
+                                        <div class="bossloot">
+                                            <div class="loot">
+                                                <img src="sprites/others/Healing_Potion.png" class="" alt="Healing Potion">
+                                                <span>(5-15) 100%</span>
+                                            </div>
+                                            <div class="loot"><img src="sprites/others/Wall_of_Flesh_Trophy.png" class="" alt="Wall of Flesh trophy"><span>10%</span></div>
+                                            <div class="loot expert-loot"><img src="sprites/others/Treasure_Bag_(Wall_of_Flesh).png" class="" alt="treasure bag"><span>100%</span></div>
+                                        </div>
+                                    </div>
+                                    <div class="expert-mode-banner">Treasure Bag Loot</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Demon_Heart.png" class="" alt="Demon Heart"><span>100%</span></div>
+                                        <div class="loot"><img src="sprites/others/Wall_of_Flesh_Mask.png" class="" alt="Wall of Flesh Mask"><span>14.29%</span></div>
+                                        <div class="loot"><img src="sprites/others/Pwnhammer.png" class="" alt="Pwnhammer"><span>100%</span></div>
+                                    </div>
+                                    <div class="prehardmodeBanner">One of the following items will be dropped</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Warrior_Emblem.png" class="" alt="Warrior Emblem"><span>25%</span></div>
+                                        <div class="loot"><img src="sprites/others/Ranger_Emblem.png" class="" alt="Ranger Emblem"><span>25%</span></div>
+                                        <div class="loot"><img src="sprites/others/Sorcerer_Emblem.png" class="" alt="Sorcerer Emblem"><span>25%</span></div>
+                                        <div class="loot"><img src="sprites/others/Summoner_Emblem.png" class="" alt="Summoner Embem"><span>25%</span></div>
+                                    </div>
+                                    <div class="prehardmodeBanner">And also one of the following items will be dropped</div>
+                                    <div class="bossloot">
+                                        <div class="loot"><img src="sprites/others/Breaker_Blade.png" class="" alt="Breaker Blade"><span>33.33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Clockwork_Assault_Rifle.png" class="" alt="Clockwork Assault Rifle"><span>33.33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Laser_Rifle.png" class="" alt="Laser Rifle"><span>33.33%</span></div>
+                                        <div class="loot"><img src="sprites/others/Gold_Coin.gif" class="" alt="Gold Coin"><span>(8) 100%</span></div>
+                                    </div>
+                                </div>
+                            </div> -->
                             <hr class="hrbreaker">
                             <div class="containerMain clickable" onclick="toggleElement('displayepisode9')">
                                 <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>
@@ -892,7 +1318,24 @@ include 'php/arrowPopulate.php';
                             </div>
                             <hr class="hrbreaker">
                             <span class="mediumtext">HIGHLIGHTS</span>
-
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep10_1.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>I built a surface glowing mushroom biome and a house so the Truffle NPC could move in.</p>
+                                </div>
+                            </div>
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>I built an artificial underground jungle biome in order for me to have a convenient "farm" for baits and Life fruit. I could also turn this jungle biome into a glowing mushroom biome in order to also farm Truffle worms.</p>
+                                </div>
+                                <div><img src="sprites/episodeimage/imageep10_3.webp" class="logobanner" alt="building a house"></div>
+                            </div>
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep10_2.webp" class="logobanner" alt="building a house"></div>
+                                <div>
+                                    <p>Went back to the ocean biome and built an arena for Duke Fishron when the time has come to defeat it.</p>
+                                </div>
+                            </div>
                             <hr class="hrbreaker">
                             <div class="containerMain clickable" onclick="toggleElement('displayepisode10')">
                                 <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>
@@ -946,11 +1389,30 @@ include 'php/arrowPopulate.php';
                                         <a href="#Episode11_5" class="tab-link nextprev-button" data-tab="Episode11_5">Episode 11.5 -></a>
                             </div>
                             <div class="containerMain">
-                                <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                                <p class="textjustify">This episode has many speed up moments as well and the episode was spent mostly on fighting a lot of bosses.</p>
                             </div>
                             <hr class="hrbreaker">
                             <span class="mediumtext">HIGHLIGHTS</span>
-
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep11_1.webp" class="logobanner" alt="Fighting Plantera"></div>
+                                <div>
+                                    <p>I fought Plantera in order to unlock the Temple as well as have access to the Shroomite armour set.</p>
+                                    <p><span style="color: yellow;">Strategy:</span> Build very big arena inside of a Jungle Cavern, in my case you do not really need many elevations since you have wings by the time you are fighting it. Just keep your distance while dodging its projectiles as well as keep attacking it.</p>
+                                </div>
+                            </div>
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>I attempted to fight Duke Fishron so I can have a somewhat early Tsunami but failed becuase I suck at the game.</p>
+                                </div>
+                                <div><img src="sprites/episodeimage/imageep11_3.webp" class="logobanner" alt="Fighting Duke Fishron"></div>
+                            </div>
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep11_2.webp" class="logobanner" alt="Fighting Golem"></div>
+                                <div>
+                                    <p>Fought the golem in order to finally have access to the end of the game.</p>
+                                    <p><span style="color: yellow;">Strategy:</span> Build platform on top of the Golem room and make sure to keep on moving. That is the only tip I can give you considering the Golem is a pretty easy boss to fight, it was so easy that I did not even follow my own strategy for it.</p>
+                                </div>
+                            </div>
                             <hr class="hrbreaker">
                             <div class="containerMain clickable" onclick="toggleElement('displayepisode11')">
                                 <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>
@@ -1004,11 +1466,23 @@ include 'php/arrowPopulate.php';
                                         <a href="#Episode12" class="tab-link nextprev-button" data-tab="Episode12">Episode 12 -></a>
                             </div>
                             <div class="containerMain">
-                                <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                                <p class="textjustify">This episode was me preparing for the upcoming boss fights in the Late hardmode stage of the game.</p>
                             </div>
                             <hr class="hrbreaker">
                             <span class="mediumtext">HIGHLIGHTS</span>
-
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep11_5_1.webp" class="logobanner" alt="Fighting Plantera"></div>
+                                <div>
+                                    <p>I went back inside the dungeon in order for me to craft the Master Ninja Gear which will be useful considering that any class that is not a melee class is very easy to kill so having it will increase my chance of survivability in the upcoming fights.</p>
+                                </div>
+                            </div>
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>I attempted to fight Duke Fishron again in order to get the Tsunami which it took a while before it dropped the bow.</p>
+                                    <p><span style="color: yellow;">Strategy:</span> Build a long running platform with some elevation. JUST DO NOT GET HIT BY IT. Also, at its last phase, the best technique that I heard and seen is that to only move vertically since regardless of location, Duke Fishron will always teleport near the player to strike.</p>
+                                </div>
+                                <div><img src="sprites/episodeimage/imageep11_5_2.webp" class="logobanner" alt="Fighting Duke Fishron"></div>
+                            </div>
                             <hr class="hrbreaker">
                             <div class="containerMain clickable" onclick="toggleElement('displayepisode11_5')">
                                 <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>
@@ -1062,11 +1536,31 @@ include 'php/arrowPopulate.php';
                                         <a href="Review" class="tab-link nextprev-button" data-tab="Review">Review -></a>
                             </div>
                             <div class="containerMain">
-                                <p class="textjustify">The first episode started and ended with a whimper considering I was not too informed on how to create one of the primary weapons of an Archer which is the arrow</p>
+                                <p class="textjustify">This is the last episode of the series and this is where I fought againsts the Lunatic Cultist as well as the final boss of Terraria, The Moon Lord.</p>
                             </div>
                             <hr class="hrbreaker">
                             <span class="mediumtext">HIGHLIGHTS</span>
-
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep12_1.webp" class="logobanner" alt="Fighting Plantera"></div>
+                                <div>
+                                    <p>I fought the Lunatic Cultist and had an absolute blast, literally and figuratively.</p>
+                                    <p><span style="color: yellow;">Strategy:</span> Use your Skeletron arena to fight the Lunatic Cultist and basically just dodge his attacks.</p>
+                                </div>
+                            </div>
+                            <div class="highlight-container reverse">
+                                <div>
+                                    <p>I fought all of celestial pillars some being harder than others.</p>
+                                    <p><span style="color: yellow;">Strategy:</span> DON'T STOP MOVING! JUST KEEP MOVING, except for the Solar Pillar which movement will most likely get you killed.</p>
+                                </div>
+                                <div><img src="sprites/episodeimage/imageep12_2.webp" class="logobanner" alt="Fighting Duke Fishron"></div>
+                            </div>
+                            <div class="highlight-container">
+                                <div><img src="sprites/episodeimage/imageep12_3.webp" class="logobanner" alt="Fighting Plantera"></div>
+                                <div>
+                                    <p>H̷̜̬̹̜͎̖̣̼̝̥̗͇̭͚́͂͗̏̋͂́͊̓̚̚͝ę̴̡̨̝̩͈̝̣͚͈̮̆̊̐͒̑͆̐̌̋͐͒̈́̎͜ͅľ̵̳̱̙̐̉̊̈͌̓͘͝p̶̨̧̮͙͕̱͖͔̬̰͖̘̻͐̒̕͜ ̴̨̡̢͉̖̩̗͉̩̗̖̺͕̣̭͌̉̂͆͋͌̈́̀̔͋̍̆̍̿̕M̴̥͖̬̳̰̦̠̤͔̲̥̉̃̂͑̇̆͜ͅe̷̛͔̼̩̜̓̎́̔̄͂́͒̒́̄̓͘</p>
+                                    <p><span style="color: yellow;">Strategy:</span> J̶̧̢̤͚͉͎̞̗͍̲̦̺̥͑̅̄̋̔̽̌͛̍̀̽̓̍̕ů̴̡̦̺̲͍̪̭̲͕͇̒̑̋̍̊̾̈́̒̒́̈́̃̕͝ͅṣ̶̢̟͉̜̄͒͗̇̅̌͊́ͅṭ̵̦̜̣̪͙͖̺͙̠̫͐̒̓̍̑ ̵̜͙̇͐̂́̓́̏́̈́̾̾͋k̶̛̤͈̙͋̌̂͗̐̅e̵̪̺̮̼͎̮̱̞͖̎̉͒̌̀̓̒̇̆̃̅̚͝͝͠e̴̡͎̼̲̭͂̒̌̎́̉̎̓̆̍p̵̡̝̟͔̩̗̫̌̓̏̀̇̓ ̷̘̽̾̓t̶̰̬̤̄̓̏̏̊͊͠ṙ̵͕͎͈̻̹̥̠̩͂̀̀̓̍̇̕̚͜y̵̢̡̡̛̥͈̮̟͎̣̑͑̔͛i̴̡̠̰̝̫̫̳̖̱̤̗̟̿n̶̛͎̗̘̠̠̜̖͖̖̍̃̈́̂͜͝ͅg̶̢̨̨̛͔̦̹̣̬̳̙̼̱̩̹̎̅͛̿̊̅́,̴̢̢̭̥̭̂̔͐̑̅́͋̐͌͊ ̸͔͈̯̪͍̅͛͑̅͑́̀̽̎̏̂h̷͔̺̹̹̻̆̏́̆̆͆a̵̱͎̾̌̐̌̀̓͠v̵͈͓͙̰̮̮̠̬̝̠͔͉̹̀̈́̂͐̈́͆ͅͅe̵̡̠͈̼̗͙̓̂͆̊̉͑́͊̄͠ ̷̹̟̩͇̳͙̫̈͑̒́͗͂t̴̡̮̬̯̥̩̫̳̜͎̙̩̃̀̅̽h̶̡̢̝̩̯̞̥͈̋̓̄̈͘͝͝ḛ̶̻̫̿́̋͗̒̋̾ ̶̛̤͕̬̜͙̣͔͔͙̙̱̍̈̍̊͛͛̉́̉n̴̨̨̹̪͛͋́ų̷̘͕̻̰͎̪̹̘̰̰͇̖̞̀͛͂̊͂̅̎͠͠ͅŗ̶̥̯̫͈̻̱̟̺̖̆s̵̢͖͓̿̈́͂̃̑͒̍̀̐̄́̄̍̚͜ȩ̶̡̛̞͍̼̜̤̽͗͋̌̎̕͜ ̴̅̋̃͒́̓̒̀́͝͠ͅi̶̧̫͔͉̬̺̱̻͇̫̞̬̻̲̅̓̑̑͒̀̊̿͆́̕ṉ̴̨̛͈̞̱̺͕͈́̏̑̋̋̅̄̾͠ ̴̛̞͂́͛͂ẏ̴̨̛͍̗͙̻̥͍̄̏̇̓́́̃̕͝ó̶̡̝͕͚̞̘̩̘͝ư̸̧̮̖̞̖̰͔̼͗́̿͆̒͌̒̓̀̽r̴̨̺̙͉̯̞̝̞͓͊̒̂̓̈́̄̎͆̕̚͠͝ ̶͔͈̲̣̫͖́̈́͒͜͜a̴̭̩̼͈̜͖̖͂͑̈̋͋͂͂͗̆̅͗͑̾̕ͅr̸̢̛̟͚͙̟̼̲̝̯͎͍͔̩͈̎́͑̅̓͐̇͑́͂͘ͅę̶͙̬͕̂̂̌̈̔̿̍͝͝͝ǹ̴̨̟̞͉͖̟̩̟̠͙̭̳̼̤̀͂̽̿͒͂̈̊ȃ̸̙̤͓͇͛̿͜ ̵̨̛̤͎̬̲̱̥̝̜͂̔͂̓̈̿͌̎̈́͗t̵̹̋̓̎̆͆̃̉́̋̕͘̕̚o̷̧̥̦̼̠͉̘̯̰̩̠̬͐͂͋̾̊̓̆ ̴̢̨̼̦͇̝̮́̾̔͗́̒̿͠c̵͕̠̠̄̐͆h̸̡̩̮̰͚̅̽e̴̙̮̝̮̹̝͈͈͍̟̊́̐̓̋̎̇́̚̚͝ȩ̴̗̻̫͙̗̝̤̪͇̱̔͐̾ͅs̸̠̪̊̈̍̿̽̄̾͛͆̅ȩ̴̧͕̝͎͔̲̰̭̞͈͓̹͖̮̍̉̐͗͂̃̾̿̐͆̍͛̈͘͠ ̸̟̗̳̣͔̪̩͐̾̍̇͋̈́́̾̌͛̀̊͑̒ţ̸͕̙̺̬̤̣͔̮͗̇̎̕ȟ̵̘͙̻̬͂̎̃̎͒̓́̔̅̆̌̊͜͝e̸̪̫̣̯̗̒̔ ̸̦͔̮̦̼͓͓̙͌̈͆̂̈́͗͘ͅͅf̴̨̧̭̻̮̟̺̘͔̊͑ĭ̶̛͕̣̓̀̋͛̒̐̉̐̎͝ğ̷̗̻̺̦͕̻͇̋͒̿͆́͜h̸̨̡̛̳̰̩͙̫̥͇̣̠̦͇̗̓͐̚t̷̡̧͔̣̩̫͖̣̙͔̭̺̐̆̿̎̄̆̉͊͜.̸̢̧̫̝̣̘̥̳̣͎̩̲̳͛̔̚͜.</p>
+                                </div>
+                            </div>
                             <hr class="hrbreaker">
                             <div class="containerMain clickable" onclick="toggleElement('displayepisode12')">
                                 <span class="mediumtext">CHARACTER SETUP AT THE END OF THE EPISODE</span>

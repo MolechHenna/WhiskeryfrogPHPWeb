@@ -23,7 +23,7 @@ include 'php/version.php';
             </a>
             <div class="rightSide">
                 <a href="website/websiteupdate" id="versionnumber">
-                    <div>V</div>
+                    <div>V<?php echo  $version; ?></div>
                 </a>
             </div>
         </div>

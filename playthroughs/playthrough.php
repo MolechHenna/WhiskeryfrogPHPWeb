@@ -87,56 +87,49 @@ include '../php/version.php';
                 </header>
             </div>
             <div class="playthrough-wrapper">
-                <div>
-                    <a href="pokemonleafgreennuzlocke/leafgreennuzlockeplay" class="anchorgroup">
-                        <div class="containerMain">
-                            <img src="../images/leafgreenbanner.webp" class="bannerimage" alt="" width="300" height="150">
-                            <span class="bigtext" style="display: block !important;">Pokemon Leafgreen Nuzlocke
-                                (GBA)</span>
-                        </div>
-                    </a>
-                </div>
-                <div>
-                    <a href="terrariabowrun/terrariabowrun" class="anchorgroup">
-                        <div class="containerMain">
-                            <img src="../images/terrariabanner.webp" class="bannerimage" alt="" width="300" height="150">
-                            <span class="bigtext" style="display: block !important;">Terraria Bow Run - Expert Mode
-                                (PC)</span>
-                        </div>
-                    </a>
-                </div>
-                <div>
-                    <a href="#" class="anchorgroup">
-                        <div class="containerMain pokemoncrystal">
-                            <img src="../images/pokemoncrystal.webp" class="bannerimage dead" alt="" width="300" height="150">
-                            <span class="bigtext" style="display: block !important;">Pokemon Crystal Nuzlocke
-                                (GBC)</span>
-                        </div>
-                    </a>
-                </div>
-                <div>
-                    <a href="#" class="anchorgroup">
-                        <div class="containerMain coffeetalk">
-                            <img src="../images/coffeetalk.webp" class="bannerimage dead" alt="" width="300" height="150">
-                            <span class="bigtext" style="display: block !important;">Coffee Talk (PC)</span>
-                        </div>
-                    </a>
-                </div>
-                <div>
-                    <a href="#" class="anchorgroup">
-                        <div class="containerMain dinosaurking">
-                            <img src="../images/dinosaurking.webp" class="bannerimage dead" alt="" width="300" height="150">
-                            <span class="bigtext" style="display: block !important;">Dinosaur King (NDS)</span>
-                        </div>
-                    </a>
-                </div>
-                <div><a href="#" class="anchorgroup">
-                        <div class="containerMain coromon">
-                            <img src="../images/coromonbanner.webp" class="bannerimage dead" alt="" width="300" height="150">
-                            <span class="bigtext" style="display: block !important;">Coromon (PC)</span>
-                        </div>
-                    </a>
-                </div>
+                <a href="pokemonleafgreennuzlocke/leafgreennuzlockeplay" class="anchorgroup">
+                    <div class="containerMain">
+                        <img src="../images/leafgreenbanner.webp" class="bannerimage" alt="" width="300" height="150">
+                        <span class="bigtext" style="display: block !important;">Pokemon Leafgreen Nuzlocke
+                            (GBA)</span>
+                    </div>
+                </a>
+                <a href="terrariabowrun/terrariabowrun" class="anchorgroup">
+                    <div class="containerMain">
+                        <img src="../images/terrariabanner.webp" class="bannerimage" alt="" width="300" height="150">
+                        <span class="bigtext" style="display: block !important;">Terraria Bow Run - Expert Mode
+                            (PC)</span>
+                    </div>
+                </a>
+            </div>
+            <div class="playthrough-wrapper">
+                <a href="#" class="anchorgroup">
+                    <div class="containerMain pokemoncrystal">
+                        <img src="../images/pokemoncrystal.webp" class="bannerimage dead" alt="" width="300" height="150">
+                        <span class="bigtext" style="display: block !important;">Pokemon Crystal Nuzlocke
+                            (GBC)</span>
+                    </div>
+                </a>
+                <a href="#" class="anchorgroup">
+                    <div class="containerMain coffeetalk">
+                        <img src="../images/coffeetalk.webp" class="bannerimage dead" alt="" width="300" height="150">
+                        <span class="bigtext" style="display: block !important;">Coffee Talk (PC)</span>
+                    </div>
+                </a>
+            </div>
+            <div class="playthrough-wrapper">
+                <a href="#" class="anchorgroup">
+                    <div class="containerMain dinosaurking">
+                        <img src="../images/dinosaurking.webp" class="bannerimage dead" alt="" width="300" height="150">
+                        <span class="bigtext" style="display: block !important;">Dinosaur King (NDS)</span>
+                    </div>
+                </a>
+                <a href="#" class="anchorgroup">
+                    <div class="containerMain coromon">
+                        <img src="../images/coromonbanner.webp" class="bannerimage dead" alt="" width="300" height="150">
+                        <span class="bigtext" style="display: block !important;">Coromon (PC)</span>
+                    </div>
+                </a>
             </div>
             <div>
                 <a href="#" class="anchorgroup" id="nogame" style="display: none;">

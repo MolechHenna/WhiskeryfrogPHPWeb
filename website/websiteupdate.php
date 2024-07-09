@@ -13,20 +13,6 @@ include '../php/version.php';
     <link rel="stylesheet" href="../css/style.css">
     <link rel="icon" href="../images/whiskeryface.png" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <style>
-        .containerMain {
-            display: grid;
-            gap: 5%;
-            background-color: rgba(5, 5, 5, 0.8) !important;
-            color: #e6e6e6 !important;
-            padding: 20px 10px 10px 10px;
-            margin: 10px 0px 10px 0px;
-            border-radius: 0;
-            box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.45);
-            -webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.45);
-            -moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.45);
-        }
-    </style>
 </head>
 
 <body>
@@ -63,6 +49,24 @@ include '../php/version.php';
             </div>
 
             <div id="anchorgroupContainer">
+                <a href="#" class="anchorgroup col">
+                    <div class="containerMain">
+                        <span class="bigtext">Update 1.1.0 - Terraria Update
+                            Release</span>
+                        <span class="bigtext smaller">July 9, 2024</span>
+                        <hr class="linebreaker2">
+                        <ul>
+                            <li>Finished the Terraria section of the website.
+                            </li>
+                            <li>Changed styling.
+                            </li>
+                            <li>Added a previous and next button in each episode for easier navigation.
+                            </li>
+                            <li>Added a footer section for each page of the website.
+                            </li>
+                        </ul>
+                    </div>
+                </a>
                 <a href="#" class="anchorgroup col">
                     <div class="containerMain">
                         <span class="bigtext"><span style="color: yellow;">Update 1.0.0</span> - Leafgreen Full
